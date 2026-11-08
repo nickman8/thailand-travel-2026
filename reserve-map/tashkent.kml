@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ташкент</name>
+    <Placemark id="tashkent-metro">
+      <name>Метро Ташкента</name>
+      <description>&lt;b&gt;Метро Ташкента: станции Космонавтов и Алишер Навои&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Станции с космической и мозаичной отделкой; фото разрешены с июня 2018.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b2020878009:0x90f60f5cf233ff60"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tashkent-metro</description>
+      <Point>
+        <coordinates>69.26477,41.305193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="besh-qozon">
+      <name>Центр плова «Беш Козон»</name>
+      <description>&lt;b&gt;Центр плова «Беш Козон»&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Открытая кухня с казанами.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8caa88e053b7:0x802c70b70583f622"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): besh-qozon</description>
+      <Point>
+        <coordinates>69.2854895,41.3475558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="chorsu-bazaar">
+      <name>Базар Чорсу</name>
+      <description>&lt;b&gt;Базар Чорсу&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Рынок под зелёным куполом; сухофрукты, специи.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b9cdd04953d:0xf8109d550917a88e"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): chorsu-bazaar</description>
+      <Point>
+        <coordinates>69.2350318,41.3267357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hazrati-imam">
+      <name>Хаст-Имам</name>
+      <description>&lt;b&gt;Хаст-Имам (Hazrati Imam)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Исторический религиозный комплекс, хранится Коран Усмана.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b8000fe0597:0x9562f93501c47c05"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): hazrati-imam</description>
+      <Point>
+        <coordinates>69.240123,41.3371778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="amir-temur-square">
+      <name>Площадь Амира Темура и куранты</name>
+      <description>&lt;b&gt;Площадь Амира Темура и куранты&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Сквер с памятником Тимуру и Ташкентскими курантами, рядом театр Навои.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b2931f41f23:0x81095e06b654b845"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): amir-temur-square</description>
+      <Point>
+        <coordinates>69.2795927,41.3111391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tashkent-city">
+      <name>Tashkent City</name>
+      <description>&lt;b&gt;Tashkent City&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Новый парк рядом с небоскрёбами, оживает после заката.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b40d847941d:0x5765a18b352df71e"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tashkent-city</description>
+      <Point>
+        <coordinates>69.2485384,41.3161128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="minor-mosque">
+      <name>Мечеть Минор</name>
+      <description>&lt;b&gt;Мечеть Минор&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Белая мечеть на канале, красивые виды.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b454cf51035:0xc1f97becd64cf681"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): minor-mosque</description>
+      <Point>
+        <coordinates>69.2752197,41.3354319,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tashkent-tv-tower">
+      <name>Ташкентская телебашня</name>
+      <description>&lt;b&gt;Ташкентская телебашня&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Башня 375 м, смотровая на 94–100 м, вращающийся ресторан выше.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b557622ee09:0x7fe6ccc1c041fedf"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tashkent-tv-tower</description>
+      <Point>
+        <coordinates>69.2845984,41.3455264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="state-museum-temurids">
+      <name>Музей Тимуридов</name>
+      <description>&lt;b&gt;Музей Тимуридов&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Мультимедийный музей Тимуридов.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b2efdebfa1b:0x162c34a35b86b93c"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): state-museum-temurids</description>
+      <Point>
+        <coordinates>69.2789568,41.313626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="islamic-civilization-center">
+      <name>Центр исламской цивилизации</name>
+      <description>&lt;b&gt;Центр исламской цивилизации&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Музейный комплекс, открыт в марте 2026; Гиннесс — крупнейший музей исламской цивилизации.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x38ae8b12574d13c3:0x15ca4a2e8ac7f5a2"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): islamic-civilization-center</description>
+      <Point>
+        <coordinates>69.2403808,41.3352756,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="oshi-amiri-tashkent">
+      <name>Оши Амири</name>
+      <description>&lt;b&gt;Оши Амири (бухарский плов)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бухарский плов (оши софи), куртоба, самса.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Oshi%20Amiri%20/%20%D0%9E%D1%88%D0%B8%20%D0%90%D0%BC%D0%B8%D1%80%D0%B8%2C%20%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): oshi-amiri-tashkent</description>
+      <Point>
+        <coordinates>69.257314,41.269672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="caravan-mahmud-tarobiy-22">
+      <name>Caravan</name>
+      <description>&lt;b&gt;Caravan: Mahmud Tarobiy 22&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Полноценная замена Glinka, а не второй ресторан в коротком транзите.&lt;br&gt;Учесть: Текущий адрес официального сайта и Yandex совпадает: Mahmud Tarobiy/Makhmud Tarabi 22, Yakkasaray. В старых/сторонних источниках остаётся Abdulla Kahhar 22; не утверждать без доказательств, что это переименование или переезд.&lt;br&gt;Учесть: Выбирать по актуальному пину, не по старой строке адреса.&lt;br&gt;&lt;a href="https://yandex.com/maps/org/caravan/163533281445/"&gt;Яндекс Карты&lt;/a&gt;: 5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://caravan.uz"&gt;Caravan: официальный сайт&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://yandex.com/maps/org/caravan/163533281445/"&gt;Yandex Maps: Caravan&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://restaurantguru.com/Caravan-Tashkent/menu"&gt;Restaurant Guru: owner-provided menu&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: maps/geocoded-checked.json: caravan-mahmud-tarobiy-22; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>69.2575792,41.2851722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="mirobod-short-walk">
+      <name>Мирабад</name>
+      <description>&lt;b&gt;Мирабад: короткая наружная прогулка в районе Успенского собора&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Только короткая необязательная наружная прогулка при запасе до TAS.&lt;br&gt;Учесть: Не превращать короткий выход в экскурсию по нескольким частям города.&lt;br&gt;Учесть: Идентичность собора и координаты 41.2908, 69.2788 подтверждены вторичной страницей Wikipedia; это не источник текущего допуска внутрь.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://en.wikipedia.org/wiki/Cathedral_of_the_Assumption_of_the_Virgin,_Tashkent"&gt;Wikipedia: Cathedral of the Assumption of the Virgin, Tashkent&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Holy+Assumption+Cathedral+Tashkent"&gt;Навигационный запрос: Holy Assumption Cathedral Tashkent, не источник часов&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: build.load_places(): mirobod-short-walk</description>
+      <Point>
+        <coordinates>69.2788,41.2908,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

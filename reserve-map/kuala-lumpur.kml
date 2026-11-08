@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Куала-Лумпур</name>
+    <Placemark id="central-market-pasar-seni">
+      <name>Central Market / Pasar Seni</name>
+      <description>&lt;b&gt;Central Market / Pasar Seni&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Зайти за сувенирами и передохнуть в помещении по пути через Chinatown. Необязательно есть в фудкорте: это отдельный выбор.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: C_first_person_independence_unconfirmed. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Материал, НЕ независимая проверка (first_person_report): После визита в мае2026 отмечает более светлое и организованное пространство, галереи Annexe. / Не рекомендует food court: снаружи дешевле и аутентичнее. Упоминает медиа-визит2016; финансировани&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49d1d9ea1257:0xfcb30d4a9ca26002"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49d1d9ea1257:0xfcb30d4a9ca26002"&gt;Tripadvisor&lt;/a&gt;: 3.9 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://nashaplaneta.net/asia/malaysia/kuala-lumpur-dostoprimechatelnosti-central-market"&gt;Наша планета&lt;/a&gt;: 4.8 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.centralmarket.com.my/"&gt;[1] official · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://katsoulfulnotes.wordpress.com/2026/07/05/sights-of-kuala-lumpur-central-market-pasar-seni/"&gt;[2] first_person_visit · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): central-market-loka-made</description>
+      <Point>
+        <coordinates>101.6954158,3.1452635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kasturi-walk">
+      <name>Kasturi Walk</name>
+      <description>&lt;b&gt;Kasturi Walk&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Коротко пройти по торговой улице рядом с Central Market. Это попутная связка, не отдельный выезд.&lt;br&gt;Учесть: В прежней подборке: Очень коротко, мало продавцов, туристические цены.&lt;br&gt;Учесть: В прежней подборке: Цены высоковаты; советует торговаться.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/550891/kasturi-walk"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/550891/kasturi-walk"&gt;Tripadvisor&lt;/a&gt;: 3.6 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/550891/kasturi-walk"&gt;[1] visitor_review · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: kasturi-walk; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Kasturi%20Walk%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.6957961,3.1452412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="pasar-lee-lam-tye">
+      <name>Pasar Lee Lam Tye</name>
+      <description>&lt;b&gt;Pasar Lee Lam Tye (в caption Thye)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Посмотреть обновлённый переулок и фасад Pasar Lee Lam Tye. Название Thye в подписи отличается от вывески; качество заведений пока не…&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: HTTP432; snippet хвалит муралы и старые дома, полный пост не прочитан.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/kuala-lumpur-45-148548654/"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · HTTP432; snippet хвалит муралы и&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: pasar-lee-lam-tye; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Pasar%20Lee%20Lam%20Tye%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.69669549999999,3.1438305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="petaling-street">
+      <name>Petaling Street / Jalan Petaling</name>
+      <description>&lt;b&gt;Petaling Street / Jalan Petaling&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Пройти по торговой улице между сувенирами и храмами Chinatown. Не считать рекламный список доказательством качества каждой лавки.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Snippet местного автора:остерегаться поддельных сумок/часов; полного отзыва нет.&lt;br&gt;&lt;a href="https://over9.my/blog/overnight-20/a-guide-to-petaling-street-the-heart-of-kuala-lumpur-s-chinatown-319"&gt;Google Maps&lt;/a&gt;: 4.1 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://trip.com/moments/detail/kuala-lumpur-45-148543824"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · Snippet местного автора:остерега&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: petaling-street; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Petaling+Street,+Kuala+Lumpur,+Malaysia/@3.144528,101.6980255,16z/data=!3m1!4b1?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>101.69764959999999,3.1443950999999997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="lah-lah-land-petaling">
+      <name>Lah Lah Land — Malaysian Souvenirs &amp; Gifts</name>
+      <description>&lt;b&gt;Lah Lah Land — Malaysian Souvenirs &amp;amp; Gifts&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Посмотреть подарки с местными иллюстрациями вместо универсальных магнитов. Это идея шопинга, пока без прочитанных независимых отзывов.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Полныхнезависимыхотзывовнепрочитано.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://visitlahlahland.com/pages/contact"&gt;[1] official · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://visitlahlahland.com/"&gt;[2] official · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: lah-lah-land-petaling; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/Lah+Lah+Land+-+Malaysian+Souvenirs+%26+Gifts/@3.1449465,101.6974183,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc490047769985:0x9a3cc77a32e47873!8m2!3d3.1449465!4d101.6974183!16s%2Fg%2F11yqbpz8qj?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>101.6974183,3.1449464999999996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="analogue-apotik-rexklup">
+      <name>Analogue Apotik REXKLUP</name>
+      <description>&lt;b&gt;Analogue Apotik REXKLUP&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Попробовать твёрдые ароматы как необычный сувенир в REXKLUP. Филиал не Damansara Uptown; точный вход ещё уточнить.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Только публичная поисковая выдача:REXKLUP,32JalanHangLekir;Instagram не открывался. Не переносить часы Damansara и отзывы об онлайн-продуктах на REXKLUP.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://instagram.com/p/DIsoYnrSVdr"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · Только публичная поисковая выдач&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://analogueapotik.com/pages/stores"&gt;[2] official · timeout · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: analogue-apotik-rexklup; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Analogue%20Apotik%20REXKL%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.6984382,3.1444875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="rexkl">
+      <name>REXKL</name>
+      <description>&lt;b&gt;REXKL (включая BookXcess)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Зайти в бывший кинотеатр ради книжных стеллажей BookXcess и пространства REXKL. Комплекс не означает желание посетить каждого арендатора.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Snippet:Oct2025одному посетителю показалось запущенным;Aug2024другой хвалит книжный,ноцифровое пространство было закрыто. Общий вход/графикмероприятий и BookXcess не подтверждены. BookXcess — вложенная точка,не второй географический стоп.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc498f0b6eeddd:0x7370e10412a8da0b"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://tripadvisor.com/Attraction_Review-g298570-d20105546-Reviews-REXKL-Kuala_Lumpur_Wilayah_Persekutuan.html"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · Snippet:Oct2025одному посетителю&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://rexkl.com/"&gt;[2] official · timeout · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): rexkl</description>
+      <Point>
+        <coordinates>101.6984824,3.1449093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="chagee-wolo-kl">
+      <name>CHAGEE WOLO KL</name>
+      <description>&lt;b&gt;CHAGEE WOLO KL&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Чайная пауза в конкретном филиале WOLO около Lot 10; не переносить отзывы других CHAGEE и не заменять этим всю местную кухню.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: HTTP432;не использовать рейтинготеляWOLO как рейтинг чайной.&lt;br&gt;&lt;a href="https://www.foodpanda.my/restaurant/n3u5/chagee-wolo-kl/reviews"&gt;Foodpanda&lt;/a&gt;: 5.0 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/kuala-lumpur-45-143719690/"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · HTTP432;не использовать рейтинго&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://mybiz.com.my/outlet/chagee/chagee-wolo-kl"&gt;[2] listing · snippet_only · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: chagee-wolo-kl; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/CHAGEE+WOLO+KL,+Kuala+Lumpur,+Malaysia/@3.1480549,101.7124474,17z/data=!3m1!4b1?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>101.7114823,3.1471491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="canteen-malaya-jalan-alor">
+      <name>Canteen Malaya</name>
+      <description>&lt;b&gt;Canteen Malaya&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Вариант передышки и еды в помещении на Jalan Alor. Интерьер виден в исходном слайде, качество кухни независимыми отзывами пока не…&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: 10.10.2026 заголовокABSOLUTELYAVOID;причинынеизвестны,нельзя домыслить жалобы. Свежесть морепродуктов и кондиционер — заявления заведения,не подтверждение посетителей.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Restaurant_Review-g298570-d34732755-Reviews-Canteen_Malaya-Kuala_Lumpur_Wilayah_Persekutuan.html"&gt;[1] search_evidence · snippet_only · исследование 31.10.2026 · 10.10.2026 заголовокABSOLUTELYAV&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.junipersjournal.com/canteen-malaya-brings-fresh-seafood-dining-to-jalan-alor/"&gt;[2] launch_PR · http_read · исследование 31.10.2026 · Перепечатка открытия с цитатами руководст&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: canteen-malaya-jalan-alor; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/Canteen+Malaya+%E5%A4%A7%E9%A9%AC%E9%A3%9F%E5%A0%82/@3.1452614,101.7079006,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc373e87332a07:0x871a099936ab70a1!8m2!3d3.1452614!4d101.7079006!16s%2Fg%2F11nth366dj?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>101.7079006,3.1452614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="space-time-cube-lot10">
+      <name>Space &amp; Time Cube Malaysia</name>
+      <description>&lt;b&gt;Space &amp;amp; Time Cube Malaysia&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Рассмотреть цифровую выставку в Lot 10 на случай жары или дождя. Официальная подборка отзывов не доказывает независимую оценку качества.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: D_official_curated. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: ВиджетGoogleнаофициальномсайтепрочитан,ноне входитвсчет независимыхпроверок;самсайт показываетнесогласованные4.5/4.4,рейтингнепереношу.&lt;br&gt;&lt;a href="https://www.top-rated.online/cities/Kuala%2BLumpur/place/p/15999991/Space%2B%26%2BTime%2BCube%2BMalaysia"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.trip.com/moments/poi-space-and-time-cube-malaysia-152748475/"&gt;Trip.com&lt;/a&gt;: 4.6 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://spaceandtimecube.com.my/"&gt;[1] official_with_curated_google_widget · http_read · исследование 31.10.2026 · ПрочитанTrustin&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: space-time-cube-lot10; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Space%20%26%20Time%20Cube%20Lot%2010%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.7119522,3.1461135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kldex-jalan-ampang">
+      <name>KLDEX — Kuala Lumpur Durian Experience</name>
+      <description>&lt;b&gt;KLDEX — Kuala Lumpur Durian Experience&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Выделить дегустацию дуриана, только если это отдельный интерес. Не обязательное дополнение к уже короткой поездке в КЛ.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Независимыйполныйотзывнепрочитан,описаниеNSTнайденотольковпоиске.&lt;br&gt;&lt;a href="https://durianhub.my/durian-farm/kldex-kuala-lumpur-durian-experience-centre-kuala-lumpur/"&gt;Google Maps&lt;/a&gt;: 4.8 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://kldex.my/"&gt;[1] official · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeoF2IUmrjj/?img_index=2"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: kldex-jalan-ampang; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/KLDEX%20Kuala%20Lumpur%20Durian%20Experience%20Jalan%20Ampang%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.7079151,3.1579636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="batu-caves">
+      <name>Batu Caves / Murugan Temple</name>
+      <description>&lt;b&gt;Batu Caves / Murugan Temple&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Один отличающийся от центра выезд к пещере, Муругану и цветной лестнице. Это Gombak в агломерации КЛ, не центр города; нужен отдельный…&lt;br&gt;Учесть: В прежней подборке: Жара и лестница требуют сил; обезьяны могут утащить еду.&lt;br&gt;Учесть: В прежней подборке: Обезьяна выхватила prasad; не советует приближать к ним детей.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc470c8949a805:0xf2bfebb2b36f9ef9"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc470c8949a805:0xf2bfebb2b36f9ef9"&gt;Trip.com&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc470c8949a805:0xf2bfebb2b36f9ef9"&gt;Tripadvisor&lt;/a&gt;: 4.0 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://nashaplaneta.net/asia/malaysia/kuala-lumpur-dostoprimechatelnosti-peshery-batu"&gt;Наша планета&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/766116/kartik-swamy--murugan--temple--batu-caves"&gt;[1] visitor_review · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeOxKx8DbF_/?cplk=dHo1d2U0aTh1MHkw"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Ddqjv-9iVVB/?img_index=5&amp;amp;exln=dzAxNmx2M25pdDZi"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): batu-caves</description>
+      <Point>
+        <coordinates>101.6840385,3.2378844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="merdeka-square">
+      <name>Merdeka Square / Dataran Merdeka</name>
+      <description>&lt;b&gt;Merdeka Square / Dataran Merdeka&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Осмотреть площадь вместе с соседним Sultan Abdul Samad, без второго выезда. Площадь и здание — разные объекты, не дубликаты.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: ОтзывыJAMDataranMerdeka (часоваябашня) невыдавалисьзаотзывогазонеплощади.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/7231"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/7231"&gt;Tripadvisor&lt;/a&gt;: 3.9 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeOxKx8DbF_/?cplk=dHo1d2U0aTh1MHkw"&gt;[1] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Ddqjv-9iVVB/?img_index=5&amp;amp;exln=dzAxNmx2M25pdDZi"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: merdeka-square; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Dataran%20Merdeka%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.6936592,3.1490605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="istana-negara-new-palace">
+      <name>Istana Negara</name>
+      <description>&lt;b&gt;Istana Negara (новый Национальный дворец)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Необязательный внешний фотостоп у ворот нынешнего дворца. В короткой поездке скорее пропустить; посещение интерьеров не предлагается.&lt;br&gt;Учесть: В прежней подборке: Внутрь нельзя; смена караула не имеет надежного расписания.&lt;br&gt;Учесть: В прежней подборке: Кроме внешнего вида не особенно есть чем заняться.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/41114/istana-negara"&gt;Google Maps&lt;/a&gt;: 4.3 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/41114/istana-negara"&gt;[1] visitor_review · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeOxKx8DbF_/?cplk=dHo1d2U0aTh1MHkw"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: istana-negara-new-palace; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Istana%20Negara%20Jalan%20Tuanku%20Abdul%20Halim%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.6634404,3.1614817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="saloma-link">
+      <name>Saloma Link / Pintasan Saloma</name>
+      <description>&lt;b&gt;Saloma Link / Pintasan Saloma&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Вечернее фото на подсвеченном пешеходном мосту после Petronas, если останутся силы.&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: C_first_person_independence_unconfirmed. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Материал, НЕ независимая проверка (first_person_report): Визит февраля2020: впечатляющая архитектура, близко от LRT. / Днем нет светового эффекта, очень влажно/жарко. Старый отчет не подтверждает текущий режим. — https://elephantsandmangoes.blogspot.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc375f66d6c8d5:0x239fcd8025b03e50"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://elephantsandmangoes.blogspot.com/2020/03/saloma-link.html"&gt;[1] first_person_visit · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeOxKx8DbF_/?cplk=dHo1d2U0aTh1MHkw"&gt;[2] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): saloma-link</description>
+      <Point>
+        <coordinates>101.708301,3.1607526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kl-tower">
+      <name>KL Tower / Menara Kuala Lumpur</name>
+      <description>&lt;b&gt;KL Tower / Menara Kuala Lumpur&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Одна платная городская панорама как альтернатива подъёму на Petronas. Погода, доступные площадки и текущие билеты уточняются отдельно.&lt;br&gt;Учесть: В прежней подборке: Терраса закрывается в дождь; SkyBox и фото дополнительно.&lt;br&gt;Учесть: В прежней подборке: Иностранный билет дорог; еще10MYR за стеклянный бокс, карта в его опыте.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc482b1dcd5813:0x106058ce3bc33aba"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.trip.com/travel-guide/attraction/kuala-lumpur/kl-tower-76118/"&gt;Trip.com&lt;/a&gt;: 4.4 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc482b1dcd5813:0x106058ce3bc33aba"&gt;Tripadvisor&lt;/a&gt;: 4.1 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://nashaplaneta.net/asia/malaysia/kuala-lumpur-dostoprimechatelnosti-menara"&gt;Наша планета&lt;/a&gt;: 5.0 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://kualalumpurtower.com.my/"&gt;[1] official · timeout · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/19769/torre-di-kuala-lumpur"&gt;[2] visitor_review · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeOxKx8DbF_/?cplk=dHo1d2U0aTh1MHkw"&gt;[3] saved_post · local_saved_material · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): kl-tower</description>
+      <Point>
+        <coordinates>101.7038516,3.1528762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="listen-hifi-chow-kit">
+      <name>Listen HiFi Cafe</name>
+      <description>&lt;b&gt;Listen HiFi Cafe&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Винил и чай/кофе в городе: наиболее прямое попадание в интерес к музыкальным кафе.&lt;br&gt;Учесть: В прежней подборке: Небольшой выбор пластинок по одному отзыву; вид зависит от посадки, кофе нравится не всем.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://thesmartlocal.my/listen-hifi-cafe/"&gt;Google Maps&lt;/a&gt;: 4.8 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://novovibe.com/en/malaysia/kuala-lumpur/bars/listen-hifi-cafe"&gt;[1] b2 evidence · [&amp;#x27;page_text_read_http&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Dea_CriGCfh/?psln=ZzhlbTd1N3Q2NjZl"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: listen-hifi-chow-kit; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Listen%20HiFi%20Cafe%20Chow%20Kit%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.7000078,3.1567167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="volume-kl">
+      <name>Volume KL</name>
+      <description>&lt;b&gt;Volume KL&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Кофе с пластинками; альтернатива Listen, а не автоматический второй сеанс.&lt;br&gt;Учесть: В прежней подборке: Парковка RM10 по опыту одного автора, не подтверждённый официальный тариф; отрицательных текстов в этой выборке нет.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://novovibe.com/fr/malaysia/kuala-lumpur/bars/volume-kl"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://novovibe.com/fr/malaysia/kuala-lumpur/bars/volume-kl"&gt;[1] b2 evidence · [&amp;#x27;page_text_read_http&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Dea_CriGCfh/?psln=ZzhlbTd1N3Q2NjZl"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: volume-kl; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Volume%20KL%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.72195839999999,3.1430624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="monk-modern-jazz-corner-subang">
+      <name>Monk</name>
+      <description>&lt;b&gt;Monk (Modern Jazz Corner)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Именно осознанное прослушивание джаза, если хочется музыкального опыта, а не разговорного кафе.&lt;br&gt;Учесть: В прежней подборке: Не для болтовни/групп; скрытый вход и третий этаж, по словам посетительницы.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Monk+(Modern+Jazz+Corner)/data=!4m2!3m1!1s0x31cc4d86aea93ccf:0xb0016f622d9b45eb"&gt;[1] b2 evidence · [&amp;#x27;direct_google_maps_browser_expanded&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Dea_CriGCfh/?psln=ZzhlbTd1N3Q2NjZl"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: monk-modern-jazz-corner-subang; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Monk%20Modern%20Jazz%20Corner%20Subang%20Jaya%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.58956219999999,3.0759705999999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="eternyl-vinyl-sea-park">
+      <name>Eternyl Vinyl Café — Sea Park</name>
+      <description>&lt;b&gt;Eternyl Vinyl Café — Sea Park&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Виниловый сеанс для пары: альтернатива дальнему выезду в Monk.&lt;br&gt;Учесть: В прежней подборке: Позиции меню могут закончиться, парковка непроста, лестница; длительность/цену сеанса уточнять отдельно.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://restaurantguru.com/Eternyl-Vinyl-Cafe-Sea-Park-Petaling-Jaya"&gt;Google Maps&lt;/a&gt;: 4.9 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Eternyl+Vinyl+Caf%C3%A9+%E2%80%A2+Sea+Park/data=!4m2!3m1!1s0x31cc4b0018ce7c6d:0x7908bcd52183f285"&gt;[1] b2 evidence · [&amp;#x27;direct_google_maps_browser_expanded&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/Dea_CriGCfh/?psln=ZzhlbTd1N3Q2NjZl"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: eternyl-vinyl-sea-park; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Eternyl%20Vinyl%20Cafe%20Sea%20Park%20Petaling%20Jaya%2C%20Kuala%20Lumpur%2C%20Malaysia</description>
+      <Point>
+        <coordinates>101.6223967,3.1104035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="river-of-life-merdeka-square">
+      <name>River of Life, Masjid Jamek и площадь Мердека</name>
+      <description>&lt;b&gt;River of Life, Masjid Jamek и площадь Мердека&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Слияние рек (место рождения города): после заката подсветка синим и «туман»; рядом колониальное здание Султана Абдул Самада (1897) с часовой башней и KL City Gallery.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49cd98881539:0x340bf906bc763359"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): river-of-life-merdeka-square</description>
+      <Point>
+        <coordinates>101.6936592,3.1490605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="chinatown-petaling-kwai-chai-hong">
+      <name>Чайнатаун</name>
+      <description>&lt;b&gt;Чайнатаун (Petaling Street), Kwai Chai Hong и храмы&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Китайский квартал с фонарями, граффити, храмами (Guan Di, Sin Sze Si Ya, Sri Mahamariamman) и переулком Kwai Chai Hong с шестью мурали о 1960-х.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49702f148d01:0xc90b7398c4ced982"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): chinatown-petaling-kwai-chai-hong</description>
+      <Point>
+        <coordinates>101.6976131,3.1414715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="trx-exchange-106">
+      <name>The Exchange TRX и парк на крыше</name>
+      <description>&lt;b&gt;The Exchange TRX и парк на крыше (TRX City Park)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;70-акровый финансовый район: башня Exchange 106 (445,5 м, вторая в Малайзии), ТЦ The Exchange 400+ магазинов и бесплатный парк на крыше.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc362fe7b7773f:0x385decd08d53c9b4"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): trx-exchange-106</description>
+      <Point>
+        <coordinates>101.7168132,3.1424073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="klcc-park-lake-symphony">
+      <name>Парк KLCC и шоу фонтанов Lake Symphony</name>
+      <description>&lt;b&gt;Парк KLCC и шоу фонтанов Lake Symphony&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Центральный парк с озером и шоу фонтанов перед башнями, бесплатно.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d3dae66605:0xced2781fa7347a4e"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): klcc-park-lake-symphony</description>
+      <Point>
+        <coordinates>101.7147872,3.1555902,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="perdana-botanical-garden">
+      <name>Ботанический сад Пердана</name>
+      <description>&lt;b&gt;Ботанический сад Пердана&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Большой парк, закат.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49b62f1e6911:0x295b6c65ec6ac9df"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): perdana-botanical-garden</description>
+      <Point>
+        <coordinates>101.6842439,3.1423617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kl-bird-park">
+      <name>KL Bird Park</name>
+      <description>&lt;b&gt;KL Bird Park&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;20 акров, ~3 000 птиц, 200+ видов, свободный полёт (фламинго, попугаи).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49c8c1d6ccbb:0x8ad65008e031cb85"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): kl-bird-park</description>
+      <Point>
+        <coordinates>101.6884845,3.143164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ilham-gallery">
+      <name>Галерея ILHAM и ILHAM Gift Shop</name>
+      <description>&lt;b&gt;Галерея ILHAM и ILHAM Gift Shop&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Галерея современного искусства и сувенирный магазин: батик, открытки, значки вместо магнитов.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37cfd0d81ea7:0xbb65ef8331445c49"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): ilham-gallery</description>
+      <Point>
+        <coordinates>101.7187176,3.1590704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="aquaria-klcc">
+      <name>Океанариум Aquaria KLCC</name>
+      <description>&lt;b&gt;Океанариум Aquaria KLCC&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Океанариум с подводным туннелем.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d39d319733:0x68a27ec3fd8f6bed"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): aquaria-klcc</description>
+      <Point>
+        <coordinates>101.713178,3.1535483,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="islamic-arts-museum">
+      <name>Музей исламского искусства и Национальная мечеть</name>
+      <description>&lt;b&gt;Музей исламского искусства и Национальная мечеть&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Крупнейший музей исламского искусства в ЮВА: 12 залов, бирюзовые купола, османская комната; рядом Национальная мечеть.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc49c9aaaaaaab:0x7ce57e40cb75b58b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): islamic-arts-museum</description>
+      <Point>
+        <coordinates>101.6899992,3.1418458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jamboo-cafe">
+      <name>Jamboo Café</name>
+      <description>&lt;b&gt;Jamboo Café (рука монстра)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Кафе в Чайнатауне: кофе «из руки зверя».&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc490baa67aa59:0x768f9af65b0d1731"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jamboo-cafe</description>
+      <Point>
+        <coordinates>101.6979517,3.1490173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="pavilion-kl">
+      <name>Pavilion KL</name>
+      <description>&lt;b&gt;Pavilion KL&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;500+ магазинов, Jimmy Choo, D&amp;amp;G, Pavilion Elite, 1 км крытый переход с KLCC.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc362c8935509b:0xed966c50b0a79fb4"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): pavilion-kl</description>
+      <Point>
+        <coordinates>101.7129235,3.1491059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="putra-mosque-putrajaya">
+      <name>Мечеть Путра и Путраджайя</name>
+      <description>&lt;b&gt;Мечеть Путра и Путраджайя&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Мечеть из розового гранита на озере, город-столица для чиновников; современная архитектура.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cdb61818046d5d:0x53f252ce4a40a088"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): putra-mosque-putrajaya</description>
+      <Point>
+        <coordinates>101.689213,2.9360702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="suria-klcc">
+      <name>Suria KLCC</name>
+      <description>&lt;b&gt;Suria KLCC (шопинг, Kinokuniya, Petrosains)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;ТЦ у башен: Chanel, Cartier, Tiffany, кино, Books Kinokuniya (станция штампов Loka Made), обменники, Petrosains на 4 этаже.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d12d669c1f:0xc955b08cfc1aae29"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): suria-klcc</description>
+      <Point>
+        <coordinates>101.7122335,3.1572757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wanjo-kampung-baru">
+      <name>Nasi Lemak Wanjo</name>
+      <description>&lt;b&gt;Nasi Lemak Wanjo (Кампунг Бару)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Наси лемак, малайзийская.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Nasi%20Lemak%20Wanjo%20Kampung%20Baru%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wanjo-kampung-baru</description>
+      <Point>
+        <coordinates>101.7044279,3.1623698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="royal-selangor-visitor-centre">
+      <name>Royal Selangor Visitor Centre</name>
+      <description>&lt;b&gt;Royal Selangor Visitor Centre&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Музей/фабрика олова, мастер-классы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc381bfd2fcddf:0xa6453bc47ab2e683"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): royal-selangor-visitor-centre</description>
+      <Point>
+        <coordinates>101.724434,3.1966646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="heli-lounge-bar">
+      <name>Heli Lounge Bar</name>
+      <description>&lt;b&gt;Heli Lounge Bar (Menara KH)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бар на вертолётной площадке с 360° видом на Петронас и Менару; заодно Marini&amp;#x27;s on 57, Satellite, Sky Bar Traders, Troika — другие руфтопы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc362b2b71395d:0xb198401a7000b9a5"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): heli-lounge-bar</description>
+      <Point>
+        <coordinates>101.7098985,3.1511919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sushi-yoshi-lalaport">
+      <name>Sushi Yoshi Omakase</name>
+      <description>&lt;b&gt;Sushi Yoshi Omakase (Lalaport BBCC)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Омакасе/суши.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E9%AE%A8%E5%90%89%20Sushi%20Yoshi%20Omakase%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): sushi-yoshi-lalaport</description>
+      <Point>
+        <coordinates>101.7067423,3.1404857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="nasi-kandar-stadium">
+      <name>Nasi Kandar Stadium</name>
+      <description>&lt;b&gt;Nasi Kandar Stadium (Bukit Bintang)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Наси кандар / мамак.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Nasi%20kandar%20Stadium%20Bukit%20Bintang%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): nasi-kandar-stadium</description>
+      <Point>
+        <coordinates>101.7118861,3.1490886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kampung-baru-saturday-market">
+      <name>Субботний ночной рынок Кампунг Бару</name>
+      <description>&lt;b&gt;Субботний ночной рынок Кампунг Бару&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Малайский квартал: рынок со стороны LRT Kampung Baru с 18:00 в субботу до глубокой ночи: еда на заказ, выпечка; на заднем плане подсвеченные Petronas.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d81e7707ff:0x68a3dfe3899d7a04"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): kampung-baru-saturday-market</description>
+      <Point>
+        <coordinates>101.706043,3.1654388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kanching-falls">
+      <name>Водопад Канчинг</name>
+      <description>&lt;b&gt;Водопад Канчинг&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Водопады, лёгкий трекинг.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc41632e11f815:0xba9e368be1c1102d"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): kanching-falls</description>
+      <Point>
+        <coordinates>101.6192662,3.2998875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kl-forest-eco-park">
+      <name>KL Forest Eco Park</name>
+      <description>&lt;b&gt;KL Forest Eco Park (canopy walk)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;200 м подвесных мостов до 21 м в центре, видна KL Tower.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc492539c32ab5:0xeed60e9b206bbd15"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): kl-forest-eco-park</description>
+      <Point>
+        <coordinates>101.7020853,3.1513603,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tamarind-square-cyberjaya">
+      <name>Tamarind Square</name>
+      <description>&lt;b&gt;Tamarind Square (Cyberjaya)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бетонные террасы с зеленью (брутализм).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cdb72c965ab4cd:0x38201f285c241048"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tamarind-square-cyberjaya</description>
+      <Point>
+        <coordinates>101.6370428,2.9197148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="envi-skydining">
+      <name>ENVI Skydining</name>
+      <description>&lt;b&gt;ENVI Skydining&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Ресторан на крыше с видом на Петронас.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37683f07a91f:0x1959b25d5070ff91"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): envi-skydining</description>
+      <Point>
+        <coordinates>101.7097635,3.1565305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="merdeka-118">
+      <name>Merdeka 118</name>
+      <description>&lt;b&gt;Merdeka 118 (The View at 118)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Второй по высоте небоскрёб мира.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc493e8ae1d7f1:0x321efc57d42c8462"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): merdeka-118</description>
+      <Point>
+        <coordinates>101.7006507,3.1418833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="xuyan-dinner">
+      <name>XuYan</name>
+      <description>&lt;b&gt;XuYan: иммерсивный ужин с шоу&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Шоу с ужином, танец льва.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37004a61b667:0xb5b3b9c3b6f52d9e"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): xuyan-dinner</description>
+      <Point>
+        <coordinates>101.7138979,3.1472495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="petrosains">
+      <name>Petrosains Discovery Centre</name>
+      <description>&lt;b&gt;Petrosains Discovery Centre&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Научный музей: тёмный аттракцион про добычу нефти, VR и интерактив.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d6b5277b89:0xe45cf549f47ee0d3"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): petrosains</description>
+      <Point>
+        <coordinates>101.711981,3.1578933,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bank-negara-museum">
+      <name>Bank Negara Museum &amp; Art Gallery</name>
+      <description>&lt;b&gt;Bank Negara Museum &amp;amp; Art Gallery&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Интерактивный музей денег и банков, наверху арт-галерея на 1 700 работ.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc48313ec06b9d:0xa7ce9f11d5e457a0"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): bank-negara-museum</description>
+      <Point>
+        <coordinates>101.6904754,3.1571622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="marinis-on-57">
+      <name>Marini's on 57</name>
+      <description>&lt;b&gt;Marini&amp;#x27;s on 57&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;57-й этаж Petronas Tower 3, вид на башни.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x31cc37d6a1404a63:0x43d1d096750ebaa4"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): marinis-on-57</description>
+      <Point>
+        <coordinates>101.7115921,3.1566118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="iki-omakase-kl">
+      <name>Iki Omakase</name>
+      <description>&lt;b&gt;Iki Omakase&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Омакасе.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Iki%20Omakase%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): iki-omakase-kl</description>
+      <Point>
+        <coordinates>101.7171779,3.1456088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="din-sun-kopitiam">
+      <name>Din Sun Kopitiam</name>
+      <description>&lt;b&gt;Din Sun Kopitiam (Чайнатаун)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Копитиам.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Din%20Sun%20Kopitiam%20%E9%BC%8E%E7%9B%9B%E8%8C%B6%E5%AE%A4%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): din-sun-kopitiam</description>
+      <Point>
+        <coordinates>101.6959513,3.1439713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="lot10-hutong">
+      <name>Lot 10 Hutong</name>
+      <description>&lt;b&gt;Lot 10 Hutong (фуд-холл)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Китайские/малайзийские хокер-стойки в ТЦ.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Lot%2010%20Hutong%2C%20%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): lot10-hutong</description>
+      <Point>
+        <coordinates>101.7112,3.1466,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

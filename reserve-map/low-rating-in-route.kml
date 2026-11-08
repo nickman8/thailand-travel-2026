@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Невысокая оценка (в маршруте)</name>
+    <Placemark id="ma-doo-bua-cafe">
+      <name>Ma Doo Bua Café</name>
+      <description>&lt;b&gt;Ma Doo Bua Café&lt;/b&gt;&lt;br&gt;Уже в основном маршруте; оценка ниже 4 из 5 по данным источника.&lt;br&gt;Кувшинки, настил и обед; платный фотограф/дрон требуют отдельного подтверждения.&lt;br&gt;Учесть: В прежней подборке: Есть прямой опыт трехчасового ожидания и жалобы на обслуживание/цены&lt;br&gt;Учесть: 350 THB/60 кг и часы съемки из ролика не считать текущими официальными условиями.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/Victoria+water+lily+pond+cafe+Phuket/@7.9120989,98.3435962,12z"&gt;Google Maps&lt;/a&gt;: 3.7 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://yandex.ru/maps/?text=Ma%20Doo%20Bua%20Phuket"&gt;Яндекс Карты&lt;/a&gt;: 5.0 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.madoobua.com/ma-doo-bua-cafe/"&gt;Официальное кафе&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.madoobua.com/ma-doo-bua-play/"&gt;Официальные активности&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://yandex.com/maps/org/ma_doo_bua/83891655292/reviews/"&gt;Ранее прочитанные прямые отзывы, каталог 31.10&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: maps/geocoded-checked.json: ma-doo-bua-cafe; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>98.3285484,8.0219586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bangla-road-patong">
+      <name>Bangla Road, Patong</name>
+      <description>&lt;b&gt;Bangla Road, Patong&lt;/b&gt;&lt;br&gt;Уже в основном маршруте; оценка ниже 4 из 5 по данным источника.&lt;br&gt;Короткая выбранная прогулка по ночному Patong: только по силам после отдыха.&lt;br&gt;Учесть: Истории о счетах — жалобы отдельных посетителей, не доказательство нарушения каждым баром.&lt;br&gt;Учесть: Первичный общий график улицы не установлен; цены и условия каждого заведения отдельно.&lt;br&gt;&lt;a href="https://www.tripadvisor.com.ph/Attractions-g293920-Activities-zfr7917639-Phuket.html"&gt;Tripadvisor&lt;/a&gt;: 3.8 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g297930-d1866109-Reviews-Bangla_Road-Patong_Kathu_Phuket.html"&gt;Выбранное место в текущем каталоге&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Patong%20/%20Bangla%20Road%2C%20%D0%9F%D1%85%D1%83%D0%BA%D0%B5%D1%82"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: maps/geocoded-checked.json: bangla-road-patong; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>98.2968022,7.8935457,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

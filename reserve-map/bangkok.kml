@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Бангкок</name>
+    <Placemark id="aquatic-echoes-seenspace-thonglor">
+      <name>Flashback Aquatic Echoes photobooth at Seenspace</name>
+      <description>&lt;b&gt;Flashback Aquatic Echoes photobooth at Seenspace&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Именно аквариумная фотобудка из сохранённого пожелания. Seenspace Thonglor — установленный контекст, но работа установки в ноябре пока не…&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Условия из исследования; актуальность не гарантирована / ref: b1a:9&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DasaovqvFjO/"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://timeout.com/bangkok/shopping/seenspace-thonglor"&gt;[2] secondary_operations · http_page_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://pockr.co/locations/aquaticechoes"&gt;[3] official_installation · snippet_only · исследование 31.10.2026 · Поиск отдаёт Aquatic Echoe&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: aquatic-echoes-seenspace-thonglor; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Flashback%20Aquatic%20Echoes%20Seenspace%20Thonglor%2C%20Bangkok%2C%20Thailand ; Google подтверждает SEENSPACE Thong Lo. Это координаты комплекса, не точная позиция фотобудки Aquatic Echoes внутри; работа установки не подтверждена.</description>
+      <Point>
+        <coordinates>100.5813826,13.733422299999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="museum-siam">
+      <name>Museum Siam</name>
+      <description>&lt;b&gt;Museum Siam&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Музейная альтернатива части храмового дня.&lt;br&gt;Учесть: В прежней подборке: Школьные группы и не все интерактивные установки исправны; аудиогид с залогом ID.&lt;br&gt;Учесть: В прежней подборке: Школьные группы; часть установок нуждается в обслуживании; залог ID для аудиогида по отзыву.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D0%A1%D0%B8%D0%B0%D0%BC%D0%B0/@13.744147,100.494137,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29904e60c66bb:0x2d5ff22f7bc5bea0"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://ru.trip.com/moments/poi-museum-siam-13471282/"&gt;Trip.com&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.museumsiam.org/museumsiam-visit.php"&gt;Museum Siam · официальный индекс&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tourismthailand.org/Attraction/museum-siam-a-learning-museum"&gt;Museum Siam · официальный индекс&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: build.load_places(): museum-siam</description>
+      <Point>
+        <coordinates>100.494137,13.744147,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="siam-stories-old-siam">
+      <name>Siam Stories at The Old Siam</name>
+      <description>&lt;b&gt;Siam Stories at The Old Siam&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Уточнить штамп в Siam Stories на третьем этаже The Old Siam, только если будете рядом. Не подменять его фотографиями Museum Shop в Museum…&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Название и3этажOldSiam указанывcaption; на15фотографиях вывескаSiamStoriesнечитается. MuseumShop/StampStation наslide3 относитсякMuseumSiam; не перепутано.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdLM3_omGWd/?img_index=3&amp;amp;psln=cG9maXY0ZmJncWU%3D"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: siam-stories-old-siam; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/SIAM.Stories/data=!4m7!3m6!1s0x30e29948e0cae4db:0x30d22d07ed3fdbef!8m2!3d13.7452371!4d100.5005354!16s%2Fg%2F11yvx9ndhn!19sChIJ2-TK4EiZ4jAR79s_7Qct0jA ; Уточнено по точной карточке Google Maps: SIAM.Stories</description>
+      <Point>
+        <coordinates>100.5005354,13.7452371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="coin-museum-bangkok">
+      <name>Coin Museum</name>
+      <description>&lt;b&gt;Coin Museum&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Один из прямо названных автором штамп-остановок: музей монет в Banglamphu. Можно выбрать вместо остальных музеев коллекции; текущая выдача…&lt;br&gt;Учесть: В прежней подборке: Языковой барьер, доступ к основным залам через экскурсию; возможен отказ при заполнении групп.&lt;br&gt;Учесть: PHOTO PATCH: Оттиски монет в альбоме из фрагмента «Coin Museum». Это штампы, НЕ фасад музея. Дата съёмки и текущая доступность неизвестны. Фото не подтверждает работу места, отзывы или доступность штампа. Права на повторную публикацию отдельно не про&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124710/coin-museum"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124710/coin-museum"&gt;Tripadvisor&lt;/a&gt;: 3.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbdMhwyOR2u/"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124710/%E7%A1%AC%E8%B2%A8%E5%8D%9A%E7%89%A9%E9%A4%A8"&gt;[2] reviews_republisher · http_page_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://emuseum-coin.treasury.go.th/en"&gt;[4] official_site · http_page_read · исследование 31.10.2026 · Музей действующий, на сайте свеж&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: coin-museum-bangkok; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Coin%20Museum%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.4947918,13.7588883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="banglamphu-museum">
+      <name>Banglamphu Museum / Pipit Banglamphu</name>
+      <description>&lt;b&gt;Banglamphu Museum / Pipit Banglamphu&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Небольшая музейная остановка в Banglamphu из авторского списка штампов. Это кандидат для выбора, не доказательство, что нужно посетить все…&lt;br&gt;Учесть: Независимые индивидуальные отзывы не подтверждены: E_no_eligible_reviews. Реклама, Gurulist неясного происхождения и поисковые фрагменты не повышают этот статус.&lt;br&gt;Учесть: Открытка10бат — цена на исходном слайде2025, не входной билет и не текущий тариф.&lt;br&gt;&lt;a href="https://www.trip.com/moments/poi-bang-lamphu-museum-22847073/"&gt;Trip.com&lt;/a&gt;: 4.7 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g293916-d7084940-Reviews-Pipit_Banglamphu_History_Museum-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 4.3 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.instagram.com/p/DL6LBjcTXRW/?img_index=2&amp;amp;xtok=MWk1bmhjeTFiYTg1Yw%3D%3D"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbdMhwyOR2u/"&gt;[2] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://emuseum-banglamphu.treasury.go.th/en"&gt;[3] official_site · http_page_read · исследование 31.10.2026 · На сайте есть события layered st&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: banglamphu-museum; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Pipit%20Banglamphu%20Museum%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.49632439999999,13.7635958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="artists-house-baan-silapin">
+      <name>Artist’s House Bangkok / Baan Silapin</name>
+      <description>&lt;b&gt;Artist’s House Bangkok / Baan Silapin&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Посмотреть дом художников у канала и спросить о штампе. Кукольное шоу нельзя обещать: официальный источник в исследовании указывает…&lt;br&gt;Учесть: В прежней подборке: На выходных тесно, бывает длинное ожидание места; не рядом с выходом метро.&lt;br&gt;Учесть: Официальный сайт прямо сообщает: кукольное шоу только для заранее забронированных частных групп.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=The%20Artist%20House%20Bangkok%20%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbdMhwyOR2u/"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124536"&gt;[2] reviews_republisher · http_page_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.artisthousebangkok.com/"&gt;[4] official_operations · http_page_read · исследование 31.10.2026 · ВАЖНО: публичные кукольные&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): artist-house-bangkok</description>
+      <Point>
+        <coordinates>100.4633342,13.731232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="thai-railway-museum-hua-lamphong">
+      <name>Bangkok Railway Museum</name>
+      <description>&lt;b&gt;Bangkok Railway Museum&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Небольшой железнодорожный музей внутри Hua Lamphong как попутная штамп-остановка. Не путать с другим музеем железных дорог в Chatuchak.&lt;br&gt;Учесть: В прежней подборке: Не все штампы бесплатны: часть привязана к покупке; музей небольшой.&lt;br&gt;Учесть: Название карточки Bangkok Railway Museum сопоставлено с Thai Railway Museum внутри HuaLamphong; не музей железных дорог в Chatuchak.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/3874561/thai-railway-museum"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.instagram.com/p/DL6LBjcTXRW/?img_index=2&amp;amp;xtok=MWk1bmhjeTFiYTg1Yw%3D%3D"&gt;[1] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbdMhwyOR2u/"&gt;[2] saved_caption_and_media · local_file_read_not_instagram_browse · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/3874561/thai-railway-museum"&gt;[3] reviews_republisher · http_page_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): thai-railway-museum</description>
+      <Point>
+        <coordinates>100.5165214,13.7387073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ojo-bangkok-mahanakhon">
+      <name>Ojo Bangkok, The Standard Mahanakhon</name>
+      <description>&lt;b&gt;Ojo Bangkok, The Standard Mahanakhon&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Дорогой альтернативный ужин на высоте, не ещё один обязательный бар на крыше.&lt;br&gt;Учесть: В прежней подборке: Не понравился сервис:после выхода в туалет долго не пускали обратно, требуя бронь; десерт разочаровал.&lt;br&gt;Учесть: В прежней подборке: Большие сумки и зонты оставляют внизу; посетитель указывает2000THB+, но это не действующее меню.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/3903669/ojo-bangkok"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Restaurant_Review-g293916-d24892698-Reviews-Ojo_Bangkok-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 4.6 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.hyatt.com/the-standard/en-US/bkksb-the-standard-bangkok/dining/ojo"&gt;Ojo · официальный адрес страницы&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://guide.michelin.com/gr/en/bangkok-region/bangkok/restaurant/ojo-bangkok"&gt;Ojo · официальный адрес страницы&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: maps/geocoded-checked.json: ojo-bangkok-mahanakhon; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>100.5285357,13.7240573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sss-sandal-souvenir">
+      <name>SSS Sandal &amp; Souvenir</name>
+      <description>&lt;b&gt;SSS Sandal &amp;amp; Souvenir&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Выбрать открытку, поставить штампы и отправить себе или близким из Chinatown. Заранее проверить оплату иностранной картой: в свежих…&lt;br&gt;Учесть: В прежней подборке: В ее визит3открытки150THB, марка80THB; это прошлые условия, не гарантия скидки сейчас.&lt;br&gt;Учесть: В прежней подборке: Оплатить можно только картой — прямо указано в свежем отзыве.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SSS%20SANDAL%20%26%20SOUVENIR%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Google Maps&lt;/a&gt;: 4.9 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g293916-d34081747-Reviews-Sss_Sandal_Souvenir-Bangkok.html"&gt;[1] visitor_review · snippet_only · исследование 31.10.2026 · 1.08.2026:милыймагазин;полныйотзы&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.phuket101.net/bangkok/sss-sandal-souvenir/"&gt;[2] first_person_visit · http_read · исследование 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SSS+Sandal+Souvenir+134+Yaowaphanit+Bangkok"&gt;[3] visitor_review · browser_read · исследование 31.10.2026 · Прочитаны отдельные отзывы непоср&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): sss-sandal-souvenir</description>
+      <Point>
+        <coordinates>100.5078845,13.7390688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="river-city-bangkok">
+      <name>River City Bangkok</name>
+      <description>&lt;b&gt;River City Bangkok&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Посмотреть доступные выставки и магазины у реки, спросить о штампах. Содержимое конкретной карусели не обязательно экспонируется сейчас.&lt;br&gt;Учесть: В прежней подборке: Названные в отзывах временные выставки не подтверждены на дату поездки; выборка не выявила конкретных сервисных жалоб.&lt;br&gt;Учесть: Отзыв 2022 года не подтверждает выставки из карусели.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/1908603/river-city-bangkok"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/1908603/river-city-bangkok"&gt;Tripadvisor&lt;/a&gt;: 3.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/bangkok-191-14252256"&gt;[1] visitor_original_platform_travel_post · full_HTTP_post_read · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://rivercitybangkok.com/"&gt;[2] official_operator · search_excerpt_only; direct HTTP 403 · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdBJfjhH5yN/"&gt;[3] b3 source · saved_post_or_evidence_record; see raw research · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: river-city-bangkok; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/River+City+Bangkok/@13.7302124,100.5132654,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299c3b5039999:0x78353f6242cf43e8!8m2!3d13.7302124!4d100.5132654!16s%2Fm%2F0411bj6?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>100.5132654,13.7302124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="national-museum-bangkok">
+      <name>National Museum Bangkok / พิพิธภัณฑสถานแห่งชาติพระนคร</name>
+      <description>&lt;b&gt;National Museum Bangkok / พิพิธภัณฑสถานแห่งชาติพระนคร&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Выбрать Национальный музей ради истории и искусства, а штампы — как дополнение. Не переносить тайский билет 30 THB на иностранца; часы…&lt;br&gt;Учесть: В прежней подборке: Большой объём экспозиции: не помещать в10минутную остановку ради штампа.&lt;br&gt;Учесть: Три точки штампов видны по титру ролика, их наличие к будущему визиту не гарантируется.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/59808/nationalmuseum"&gt;Google Maps&lt;/a&gt;: 4.7 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/59808/nationalmuseum"&gt;Tripadvisor&lt;/a&gt;: 4.1 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/bangkok-191-153568711"&gt;[1] visitor_platform_partner_post_AI_translation · full_HTTP_post_read · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://am2026thailand.go.th/explore-bangkok/national-museum-bangkok"&gt;[2] official_government_visitor_guide · full_HTTP_page_read · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DXigCPGkUkf/"&gt;[3] b3 source · saved_post_or_evidence_record; see raw research · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: national-museum-bangkok; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/National%20Museum%20Bangkok%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.4925167,13.7576171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="talat-noi-museum">
+      <name>Talat Noi / Talad Noi Museum</name>
+      <description>&lt;b&gt;Talat Noi / Talad Noi Museum&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Музей района и многослойные штампы, только после подтверждения работы. Официально закрывался 1–25 октября 2026; окончание срока не…&lt;br&gt;Учесть: Два ролика — один объект, дедуплицированы.&lt;br&gt;Учесть: Официальное объявление30.09.2026:закрытие1–25.10.2026 на ремонт; этот срок уже прошел, но отдельного подтверждения открытия не найдено.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20/%20Talad%20Noi%20Museum%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://booked.ai/attractions/talad-noi-museum"&gt;[1] b3 source · Посетительский блок прочитан в браузере; републикация, не оригинальный Google. &lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://emuseum-taladnoi.treasury.go.th/en"&gt;[2] b3 source · Официальная главная прочитана в браузере. · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://emuseum-taladnoi.treasury.go.th/en/announce/004/"&gt;[3] b3 source · Официальное объявление о ремонте прочитано в браузере. · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): talat-noi-museum</description>
+      <Point>
+        <coordinates>100.5112284,13.7349378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bma-tourism-division-phra-athit">
+      <name>Tourism Division, Bangkok Metropolitan Administration</name>
+      <description>&lt;b&gt;Tourism Division, Bangkok Metropolitan Administration&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Попутно спросить о штампах в конкретном офисе Tourism Division на 17/1 Phra Athit. Адрес подтверждён, доступ и набор штампов — нет; не…&lt;br&gt;Учесть: Официальный адрес подтвержден; наличие/доступность штампов известно только от автора карусели.&lt;br&gt;Учесть: Режим работы конкретного офиса первично не установлен.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://visit.bangkok.go.th/about"&gt;[1] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeAuPo5GNyT/?img_index=5&amp;amp;psln=MTkyeTFvcTNlNmN0ZQ%3D%3D"&gt;[2] b3 source · saved_post_or_evidence_record; see raw research · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: bma-tourism-division-phra-athit; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Tourism%20Division%20Bangkok%20Metropolitan%20Administration%20Phra%20Athit%20Road%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.4914877,13.760703999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="suan-dusit-arun">
+      <name>Suan Dusit Arun / Dusit Arun Park</name>
+      <description>&lt;b&gt;Suan Dusit Arun / Dusit Arun Park&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Прогулка по общественному rooftop-парку Dusit Central Park с видом на Lumphini. Название подтверждено оператором; независимость Gurulist и…&lt;br&gt;Учесть: Название DUSITARUN не ошибка:официальный Dusit подтверждает SuanDusitArun вDusitCentralPark.&lt;br&gt;Учесть: Gurulistне дает оригинальных карточек/точных дат; происхождение авторских текстов не проверено.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://gurulist.net/en/bangkok/parks/suan-dusit-arun-24095.htm"&gt;[1] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://dusit.com/suan-dusit-arun-marks-a-year-of-positive-urban-impact-recording-more-than-951000-visitors-while-helping-to-create-a-cooler-greener-bangkok"&gt;[2] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DettBa-gfEO/"&gt;[3] b3 source · saved_post_or_evidence_record; see raw research · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: suan-dusit-arun; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Suan%20Dusit%20Arun%20Park%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.53757809999999,13.7285113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="asiatique-riverfront">
+      <name>Asiatique The Riverfront</name>
+      <description>&lt;b&gt;Asiatique The Riverfront&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Вариант вечерней прогулки у реки. Колесо и рестораны оплачиваются/проверяются отдельно; случайный кадр ICONSIAM на промослайде не делает…&lt;br&gt;Учесть: В прежней подборке: Скопление пассажиров у пристани; один автор недоволен ценностью аттракционов. Билеты на аттракционы не равны обязательной плате за прогулку.&lt;br&gt;Учесть: Фотослайд включаетICONSIAM—не смешивать два объекта.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124554/asiatique-the-riverfront"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g293916-d2723479-Reviews-Asiatique_The_Riverfront-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://tripadvisor.com/Attraction_Review-g293916-d2723479-Reviews-Asiatique_The_Riverfront-Bangkok.html"&gt;[1] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://tripadvisor.in/Attraction_Review-g293916-d2723479-Reviews-Asiatique_The_Riverfront-Bangkok.html"&gt;[2] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://asiatique-sky.com/opening-hours"&gt;[3] b3 source · search_excerpt_or_discovered_contact_only · research 31.10.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: https://www.google.com/maps/place/@13.704419,100.503267,17z/data=!4m10!3m9!1s0x30e29896ef5ceab5:0xcbdfcc8a7d11f856!5m2!4m1!1i2!8m2!3d13.704419!4d100.503267!9m1!1b1</description>
+      <Point>
+        <coordinates>100.503267,13.704419,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="kope-hya-tai-kee-giant-swing">
+      <name>Kope Hya Tai Kee — Giant Swing / Sao Chingcha</name>
+      <description>&lt;b&gt;Kope Hya Tai Kee — Giant Swing / Sao Chingcha&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Завтрак и автомат мини-открыток в конкретном Kope у Giant Swing. Два сохранённых поста относятся к одному филиалу; закладывать время на…&lt;br&gt;Учесть: В прежней подборке: Нет кондиционера; у одного посетителя ожидание около часа.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/436296"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/436296"&gt;Tripadvisor&lt;/a&gt;: 4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/436296"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DdrCkN1txzx/?rpxt=dGN0ejhpaDVwMTc5"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DcOKyjmtsD-/?cplk=MXFiNDRjd2FjeW03Zg%3D%3D"&gt;[3] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: kope-hya-tai-kee-giant-swing; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Kope%20Hya%20Tai%20Kee%20Sao%20Chingcha%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.50226459999999,13.753164199999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="space-time-cube-seacon-bangkae">
+      <name>Space &amp; Time Cube+, Seacon Bangkae</name>
+      <description>&lt;b&gt;Space &amp;amp; Time Cube+, Seacon Bangkae&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Крытая иммерсивная альтернатива западной части города.&lt;br&gt;Учесть: В прежней подборке: Далеко от центра; выбор фильма зависит от времени, повторный вход в кино ограничен по отзыву.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/13522996/space--time-cube"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.spaceandtimecube.com/tha/contact-us"&gt;Официально · Space &amp;amp; Time Cube+&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.spaceandtimecube.com/THA"&gt;Официально · Space &amp;amp; Time Cube+&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://bangkokair.takemetour.com/ticket/space-time-cube-at-seacon-bangkae"&gt;Продавец билетов · не кассовый прайс&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;Координаты: maps/geocoded-checked.json: space-time-cube-seacon-bangkae; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>100.43522469999999,13.712141100000002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="neighbourmart-bang-rak">
+      <name>NEIGHBOURMART</name>
+      <description>&lt;b&gt;NEIGHBOURMART&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Сувениры, бумага и штампы рядом с почтамтом Bang Rak. Текущая коллекция и наличие штампа не гарантированы.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал partner_visitor_post_read_not_independent_verified (НЕ независимая проверка): По прочитанному партнёрскому рассказу — локальные издания и канцелярия в здании почтамта. — https://us.trip.com/moments/detail/bangkok-191-146400732&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/bangkok-191-146400732"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbLWbr5zNDx/?mdxt=dHBtdmFqM2N2cmJ2"&gt;[3] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: neighbourmart-bang-rak; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/NEIGHBOURMART%20Bang%20Rak%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5156397,13.726689499999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sio-siah-kee-stamps-coins">
+      <name>Sio Siah Kee / Stamp &amp; Coins</name>
+      <description>&lt;b&gt;Sio Siah Kee / Stamp &amp;amp; Coins&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Небольшая попутная остановка за марками/монетами в том же квартале. Не обязательный отдельный выезд ради одного штампа.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал not_found_or_not_read (НЕ независимая проверка): Реальный магазин марок показан на слайде; не доказательство качества обслуживания. — https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[1] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://uscoinshows.com/dealers/intl/sio-siah-kee-stamps-coins-mm75i7f3"&gt;[2] b2 evidence · snippet_only&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: sio-siah-kee-stamps-coins; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Sio%20Siah%20Kee%20Stamp%20Coins%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.51605690000001,13.7255452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="seri-studio">
+      <name>Se—ri Studio</name>
+      <description>&lt;b&gt;Se—ri Studio&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Посмотреть зины, печать и небольшую студию по интересу к бумажным вещам. Время доступа и необходимость записи не подтверждены.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал editorial_read_no_visitor_reviews (НЕ независимая проверка): Редакционное интервью подтверждает зины, рисографию и культурное пространство в Charoenkrung43. — https://en.thairath.co.th/plus/everydaylife/106166&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://en.thairath.co.th/plus/everydaylife/106166"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: seri-studio; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Se-ri%20Studio%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5169992,13.727861299999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="earsair-pharmacy">
+      <name>Earsair Pharmacy / 生益 — herbal drink shop</name>
+      <description>&lt;b&gt;Earsair Pharmacy / 生益 — herbal drink shop&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Попутный травяной напиток в исторической лавке. Никаких обещаний лечебного эффекта; состав и противопоказания здесь не проверялись.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал not_found_or_not_read (НЕ независимая проверка): Организатор DesignWeek упоминает Earsair и хризантемный напиток; это подтверждение вида места, не отзыв. — https://bangkokdesignweek.com/en/bkkdw2024/program/89288&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://bangkokdesignweek.com/en/bkkdw2024/program/89288"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: earsair-pharmacy; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Earsair+Pharmacy,+Bangkok,+Thailand/@13.7378692,100.5361583,15z/data=!3m1!4b1?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>100.51426,13.7337478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="woot-woot-warehouse30">
+      <name>WOOT WOOT — Warehouse30</name>
+      <description>&lt;b&gt;WOOT WOOT — Warehouse30&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бумажные сувениры и штампы в WOOT WOOT, Warehouse30. Новый источник уточняет привязку; не обещать конкретный исторический штамп.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал creator_visitor_post_read_independence_unverified (НЕ независимая проверка): Автор хвалит атмосферу, выбор канцелярии/подарков и помощь персонала. — https://us.trip.com/moments/detail/bangkok-191-141066151&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://us.trip.com/moments/detail/bangkok-191-141066151"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: woot-woot-warehouse30; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/WOOT%20WOOT%20Warehouse%2030%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5146839,13.7280932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="grand-postal-building-bang-rak">
+      <name>Grand Postal Building / General Post Office — Bang Rak</name>
+      <description>&lt;b&gt;Grand Postal Building / General Post Office — Bang Rak&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Архитектурный и почтовый якорь прогулки по Bang Rak; магазин и штамп-стойки внутри — отдельные услуги с непроверенной доступностью.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал snippet_only (НЕ независимая проверка): Поиск показывает отзыв о терпеливом сотруднике и выборе марок, но тело не прочитано. — https://postcard.inc/places/grand-postal-building-bangkok?userId=google&lt;br&gt;&lt;a href="https://www.tripexpert.com/bangkok/attractions/grand-postal-building"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tripadvisor.co.uk/Attraction_Review-g293916-d7319644-Reviews-Grand_Postal_Building-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 3.7 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://postcard.inc/places/grand-postal-building-bangkok?userId=google"&gt;[1] b2 evidence · snippet_only&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbLWbr5zNDx/?mdxt=dHBtdmFqM2N2cmJ2"&gt;[3] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: grand-postal-building-bang-rak; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Grand%20Postal%20Building%20Bang%20Rak%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5156451,13.727421099999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="seven-eleven-happitat">
+      <name>7-Eleven Festie Town at Happitat / The Forestias</name>
+      <description>&lt;b&gt;7-Eleven Festie Town at Happitat / The Forestias&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут. Удалённый Happitat требует ориентировочно 2,5–4 часа с дорогой от On Nut. В приоритетный день 16-го сохранены centralwOrld, винил, Song Wat и Chinatown; работа конкретного 7-Eleven не подтверждена. Не считается посещённым.&lt;br&gt;Выбранный необычный магазин в Happitat, явно отложенный ради шопинга и винила.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал partner_visitor_post_read_not_independent_verified (НЕ независимая проверка): Автор видел эффектный вход и ассортимент, отличный от обычного7/11. — https://in.trip.com/moments/detail/bangkok-191-153882878&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://mqdc.com/news/810-axtra-happitat-unveils-happitat-the-new-global-landmark-of-happiness-at-the-entrance-to-the-forestias-opening-21-august"&gt;MQDC · застройщик Happitat&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://bangkoktme.com/review/7-eleven-festie-town-at-happitat/"&gt;MQDC · застройщик Happitat&lt;/a&gt;; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Happitat+(Festie+Town+and+Lumis+Theater+Hall/@13.6549334,100.6660341,17z/data=!3m1!4b1!4m6!3m5!1s0x311d5f006bd62813:0xe1490b6468d82ba2"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: maps/geocoded-checked.json: seven-eleven-happitat; Google My Maps geocoding, checked against expected city bounds, 2026-11-08</description>
+      <Point>
+        <coordinates>100.6657609,13.654651,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="queen-sirikit-museum-textiles">
+      <name>Queen Sirikit Museum of Textiles</name>
+      <description>&lt;b&gt;Queen Sirikit Museum of Textiles&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Текстиль и выставка как дополнение к дворцовому кварталу, не отдельная дальняя поездка только ради штампа.&lt;br&gt;Учесть: В прежней подборке: Запрет фото в экспозиции и строгая одежда по посетителю; билет держать при себе.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/776618/textilienmuseum-k%C3%B6nigin-sirikit"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/776618/textilienmuseum-k%C3%B6nigin-sirikit"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbLWbr5zNDx/?mdxt=dHBtdmFqM2N2cmJ2"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: queen-sirikit-museum-textiles; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Queen%20Sirikit%20Museum%20of%20Textiles%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.49072869999999,13.751914399999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="paengrums-books-cafe">
+      <name>Paengrum’s Books &amp; Cafe</name>
+      <description>&lt;b&gt;Paengrum’s Books &amp;amp; Cafe&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Книги и спокойная кофейная пауза, если окажетесь рядом. Не назначать время по противоречивым вторичным часам.&lt;br&gt;Учесть: В прежней подборке: Оба доступных отзыва положительны и анонимизированы; плохие стороны и текущий штамп не установлены.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://coool.cafe/cafe/paengrums-books-and-cafe-bangkok"&gt;Google Maps&lt;/a&gt;: 4.9 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://coool.cafe/cafe/paengrums-books-and-cafe-bangkok"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbLWbr5zNDx/?mdxt=dHBtdmFqM2N2cmJ2"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://bangkok.biz/business/paengrums-books-cafe"&gt;[3] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: paengrums-books-cafe; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Paengrum%27s%20Books%20Cafe%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5096774,13.7576714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="corner-house-charoen-krung35">
+      <name>The Corner House — Charoen Krung35</name>
+      <description>&lt;b&gt;The Corner House — Charoen Krung35&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Зайти по пути на интересную текущую выставку; это Charoen Krung35, не одноимённый бар Sukhumvit.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал creator_visitor_post_read_independence_unverified (НЕ независимая проверка): Подходит как архитектурная/арт-остановка по пути TalatNoi. — https://trip.com/moments/detail/bangkok-191-151665313&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://trip.com/moments/detail/bangkok-191-151665313"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdYPRRfmDSy/?xtok=NXppZGFsOXA3N2F3"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: corner-house-charoen-krung35; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/The%20Corner%20House%20Charoen%20Krung%2035%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.515002,13.732031399999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="na-phra-lan-post-office">
+      <name>Na Phra Lan Post Office</name>
+      <description>&lt;b&gt;Na Phra Lan Post Office&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Короткая необязательная почтовая остановка при обходе дворцового квартала. Текущие часы и выдача штампов не подтверждены.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал not_found_or_not_read (НЕ независимая проверка): Вторичная карточка подтверждает адрес15–17NaPhraLanRoad. — https://docentpro.com/places/na-phra-lan-post-office_NzA4NTc3&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://docentpro.com/places/na-phra-lan-post-office_NzA4NTc3"&gt;[1] b2 evidence · http_page_read&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/reel/DbLWbr5zNDx/?mdxt=dHBtdmFqM2N2cmJ2"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: na-phra-lan-post-office; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Na%20Phra%20Lan%20Post%20Office%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.49066189999999,13.752504799999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="grand-palace-wat-phra-kaew">
+      <name>Grand Palace &amp; Wat Phra Kaew</name>
+      <description>&lt;b&gt;Grand Palace &amp;amp; Wat Phra Kaew&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Дворец и храм Изумрудного Будды по интересу к истории. Соседство с Wat Arun не делает его обязательным, условия входа и дресс-код уточнить.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;Учесть: Материал not_found_or_not_read (НЕ независимая проверка): Дворцовая/храмовая остановка из сохранённой подборки; это мотив, не независимый отзыв. — https://www.instagram.com/p/DdLO3JcGI9Q/?img_index=2&amp;amp;obrf=dWJiN21kd3VkZGVp&lt;br&gt;&lt;a href="https://www.google.com/maps/place/The+Grand+Palace/@13.7498558,100.4915765,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2994e316c363f:0x2a6c77dd93ef4c41"&gt;Google Maps&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://ru.trip.com/moments/poi-the-grand-palace-77012/"&gt;Trip.com&lt;/a&gt;: 4.4 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/The+Grand+Palace/@13.7498558,100.4915765,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2994e316c363f:0x2a6c77dd93ef4c41"&gt;Tripadvisor&lt;/a&gt;: 4.2 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdLO3JcGI9Q/?img_index=2&amp;amp;obrf=dWJiN21kd3VkZGVp"&gt;[1] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://royalgrandpalace.th/en/visit/opening-time"&gt;[2] b2 evidence · snippet_only&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="http://royalgrandpalace.th/en/visit/practical-information"&gt;[3] b2 evidence · snippet_only&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): grand-palace-wat-phra-kaew</description>
+      <Point>
+        <coordinates>100.4915765,13.7498558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="talat-noi-neighbourhood">
+      <name>Talat Noi</name>
+      <description>&lt;b&gt;Talat Noi&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Пешая прогулка: стрит-арт, старые здания и кафе, без искусственного чек-листа штампов.&lt;br&gt;Учесть: В прежней подборке: Жара и мало тени; оценки плотности людей расходятся — тихо бывает не всегда.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/867401/talat-noi"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/867401/talat-noi"&gt;[1] b2 evidence · [&amp;#x27;page_text_read_http&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeCAnotkmKL/?img_index=4&amp;amp;xtok=YmJmZ3dudWdhZG1z"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: talat-noi-neighbourhood; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Talat%20Noi%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5134411,13.7346704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="iconsiam">
+      <name>ICONSIAM</name>
+      <description>&lt;b&gt;ICONSIAM&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Еда, река и перерыв от уличной жары; шопинг необязателен.&lt;br&gt;Учесть: В прежней подборке: Может быть многолюдно в выходные; это большой торговый комплекс, не самостоятельный исторический район.&lt;br&gt;Учесть: Все часы/цены/длительности сохранены со статусами исходного исследования; календарных ограничений и ценовых гарантий нет.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ICONSIAM/@13.7268131,100.5103667,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299cd81f01815:0x1660bd86761a92f4"&gt;Google Maps&lt;/a&gt;: 4.7 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://ru.trip.com/moments/theme/poi-iconsiam-79150813-attraction-993137/"&gt;Trip.com&lt;/a&gt;: 4.9 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://otzovik.com/reviews/torgoviy_centr_icon_siam_tailand_bangkok/"&gt;Отзовик&lt;/a&gt;: 4.7 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://wanderlog.com/place/details/124562"&gt;[1] b2 evidence · [&amp;#x27;page_text_read_http&amp;#x27;]&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DeCAnotkmKL/?img_index=4&amp;amp;xtok=YmJmZ3dudWdhZG1z"&gt;[2] b2 evidence · saved source; see research record&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): iconsiam</description>
+      <Point>
+        <coordinates>100.5103667,13.7268131,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ancient-city-muang-boran">
+      <name>Древний Сиам</name>
+      <description>&lt;b&gt;Древний Сиам (Ancient City)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Большой открытый парк с копиями памятников Таиланда; вариант отдельного дня.&lt;br&gt;Учесть: Редакционно, план 18.10: Большая территория и жара; трансфер и способ передвижения нужно решить.&lt;br&gt;Учесть: Из предыдущего плана 18.10; отзывы/часы не перепроверены. Это интерес, не выбранная ветка и не заказанная услуга.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9+%D0%A1%D0%B8%D0%B0%D0%BC/@13.5395087,100.6232351,17z/data=!3m1!4b1!4m6!3m5!1s0x311d587d0bf731eb:0x2e55b55dfe4082c7"&gt;Google Maps&lt;/a&gt;: 4.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://ru.trip.com/moments/poi-the-ancient-city-89324/"&gt;Trip.com&lt;/a&gt;: 4.6 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9+%D0%A1%D0%B8%D0%B0%D0%BC/@13.5395087,100.6232351,17z/data=!3m1!4b1!4m6!3m5!1s0x311d587d0bf731eb:0x2e55b55dfe4082c7"&gt;Карта из плана 18.10&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://ru.trip.com/moments/poi-the-ancient-city-89324/"&gt;Trip.com · план 18.10, не перепроверено&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdLO3JcGI9Q/"&gt;Сохранённый рилс · план 18.10&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): ancient-city-muang-boran</description>
+      <Point>
+        <coordinates>100.6232351,13.5395087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wat-samphran">
+      <name>Ват Самфран</name>
+      <description>&lt;b&gt;Ват Самфран («храм с драконом»)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Храм с башней-драконом — сохранённое пожелание отдельного выезда из Бангкока.&lt;br&gt;Учесть: Редакционно, план 18.10: Накхонпатхом: отдельная дорога; актуальный доступ и условия подъёма уточнить.&lt;br&gt;Учесть: Из предыдущего плана 18.10; отзывы/часы не перепроверены. Это интерес, не выбранная ветка и не заказанная услуга.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Sam+Phran/@13.7358272,100.2153441,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2ebb93e0a861b:0x853781baa02919a2"&gt;Google Maps&lt;/a&gt;: 4.4 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Sam+Phran/@13.7358272,100.2153441,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2ebb93e0a861b:0x853781baa02919a2"&gt;Trip.com&lt;/a&gt;: 3.5 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://nashaplaneta.net/asia/thai/bangkok-dostoprimechatelnosti-hram-s-drakonom-wat-sam-phran"&gt;Наша планета&lt;/a&gt;: 4.0 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Sam+Phran/@13.7358272,100.2153441,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2ebb93e0a861b:0x853781baa02919a2"&gt;Карта из плана 18.10&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://nashaplaneta.net/asia/thai/bangkok-dostoprimechatelnosti-hram-s-drakonom-wat-sam-phran"&gt;Наша планета · план 18.10, не перепроверено&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wat-samphran</description>
+      <Point>
+        <coordinates>100.2153441,13.7358272,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="dib-bangkok">
+      <name>DIB Bangkok</name>
+      <description>&lt;b&gt;DIB Bangkok (музей современного искусства)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Современная архитектура и инсталляции DIB — интерес из предыдущего плана.&lt;br&gt;Учесть: Редакционно, план 18.10: Текущую выставку, стоимость и дни работы нужно перепроверить.&lt;br&gt;Учесть: Из предыдущего плана 18.10; отзывы/часы не перепроверены. Это интерес, не выбранная ветка и не заказанная услуга.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Dib+Bangkok/@13.7129126,100.5797653,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f002b650cb9:0x3bbc34216cf41184"&gt;Google Maps&lt;/a&gt;: 4.2 / 5; дата: 2026-10-18&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Dib+Bangkok/@13.7129126,100.5797653,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f002b650cb9:0x3bbc34216cf41184"&gt;Карта из плана 18.10&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.visitthailandtoday.com/temples-culture/bangkok/dib-bangkok"&gt;Visit Thailand Tod · план 18.10, не перепроверено&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.instagram.com/p/DdgjiG2j0rq/"&gt;Сохранённый рилс · план 18.10&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): dib-bangkok</description>
+      <Point>
+        <coordinates>100.5797653,13.7129126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tichuca-rooftop-bar">
+      <name>Tichuca Rooftop Bar</name>
+      <description>&lt;b&gt;Tichuca Rooftop Bar&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Один коктейль над Сукхумвитом: панорама, светящаяся инсталляция и DJ. Скорее эффектный rooftop, чем тихий бар.&lt;br&gt;Учесть: Официальный FAQ: только 20+; иностранным гостям нужен оригинал паспорта, не фото или копия.&lt;br&gt;Учесть: Официальный FAQ: только walk-in, бронирование не принимают. Вход без ожидания не гарантирован.&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Restaurant_Review-g293916-d24029891-Reviews-Tichuca_Rooftop_Bar-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 3.1 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.tichuca.co/post/tichuca-faqs"&gt;Официальный FAQ — адрес, 20+, оригинал паспорта, walk-in, вечерний DJ; страница прочитана 01.11&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Restaurant_Review-g293916-d24029891-Reviews-Tichuca_Rooftop_Bar-Bangkok.html"&gt;Tripadvisor — агрегат 3,1/5, 121 отзыв; только поисковый фрагмент 01.11.2026&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: tichuca-rooftop-bar; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Tichuca%20Rooftop%20Bar%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.5805317,13.722396799999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khao-san-road">
+      <name>Khao San Road / Soi Rambuttri</name>
+      <description>&lt;b&gt;Khao San Road / Soi Rambuttri&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Сначала бар на более спокойной Rambuttri, потом короткий заход на шумную Khao San — если хочется туристической ночной жизни.&lt;br&gt;Учесть: Это две соседние улицы, а не один клуб. Khao San шумная и туристическая; Rambuttri спокойнее, но не гарантированно тихая.&lt;br&gt;Учесть: Единые правила возраста, дресс-кода и брони для всего района не установлены; условия конкретного бара проверять отдельно.&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g293916-d546013-Reviews-Khaosan_Road-Bangkok.html"&gt;Tripadvisor&lt;/a&gt;: 3.8 / 5; дата: 2026-11-01&lt;br&gt;&lt;a href="https://www.phuket101.net/bangkok/soi-rambuttri/"&gt;Phuket101 — соседство улиц, более спокойная Rambuttri и вечерняя живая музыка; страница прочита&lt;/a&gt;; дата: не указана&lt;br&gt;&lt;a href="https://www.tripadvisor.com/Attraction_Review-g293916-d546013-Reviews-Khaosan_Road-Bangkok.html"&gt;Tripadvisor Khaosan Road — 3,8/5, 14 189 отзывов, ночная улица; только поисковый фрагмент 01.11&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: khao-san-road; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Khao%20San%20Road%2C%20Bangkok%2C%20Thailand</description>
+      <Point>
+        <coordinates>100.4972578,13.7589206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="mahanakhon-skywalk">
+      <name>King Power Mahanakhon SkyWalk</name>
+      <description>&lt;b&gt;King Power Mahanakhon SkyWalk&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Самый высокий небоскрёб Бангкока (314 м, архитектор Ole Scheeren): стеклянная площадка на 74–78 этажах, открытая терраса 78-го; ресторан Ojo на 76-м.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/King+Power+Mahanakhon/@13.7240107,100.5284771,17z/data=!3m1!4b1!4m6!3m5!1s0x30e298d29976351b:0x4ea0c13ed9fa8674"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): mahanakhon-skywalk</description>
+      <Point>
+        <coordinates>100.5284771,13.7240107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="platinum-pratunam">
+      <name>Platinum Fashion Mall и рынок Пратунам</name>
+      <description>&lt;b&gt;Platinum Fashion Mall и рынок Пратунам&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Оптово-розничная одежда: Platinum (1 300–2 500 магазинов) и уличный рынок Пратунам рядом; футболки 60–100 THB, штаны от ~139 THB.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Platinum+Fashion+Mall/@13.750032,100.5392574,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29ecf3f7d7a67:0x33a8397a3fc06439"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): platinum-pratunam</description>
+      <Point>
+        <coordinates>100.5392574,13.750032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="siam-center-square">
+      <name>Siam Square, Siam Center и тайские дизайнеры</name>
+      <description>&lt;b&gt;Siam Square, Siam Center и тайские дизайнеры&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Район у BTS Siam: уличный рынок Siam Square One и Soi 3 (одежда, кроссовки, винтажные сумки), Siam Center с Absolute Siam Store (тайские дизайнеры, открытки, сухие духи Feel Fin), тайские бренды (ASAP, Matchbox, Gentlewoman, Jaspal, Matter Makers).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%A1%D0%B8%D0%B0%D0%BC-%D1%86%D0%B5%D0%BD%D1%82%D1%80/@13.7462793,100.5326779,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29ecd81421b2b:0xa1affc34a5f5632c"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): siam-center-square</description>
+      <Point>
+        <coordinates>100.5326779,13.7462793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="talat-noi-songwat">
+      <name>Талат Ной / Сонгват + Ват Прайюн + церковь Санта-Круз</name>
+      <description>&lt;b&gt;Талат Ной / Сонгват + Ват Прайюн + церковь Санта-Круз&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Старейший квартал: китайские святилища, мастерские, граффити, колониальные фасады; уличная еда на Сонгват; Talat Noi Museum с «паспортом» штампов; через реку белая ступа Ват Прайюн и розовая португальская церковь.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Prayurawongsawas+Worawihan/@13.7373707,100.4953581,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29902ca977ed3:0x5277b4419f21e93b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): talat-noi-songwat</description>
+      <Point>
+        <coordinates>100.4953581,13.7373707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="damnoen-saduak-maeklong">
+      <name>Плавучий рынок Дамноен Садуак и рынок на рельсах Мэклонг</name>
+      <description>&lt;b&gt;Плавучий рынок Дамноен Садуак и рынок на рельсах Мэклонг&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Классическая поездка на день: электролодки по каналам и рынок, где поезд проезжает через прилавки.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Damnoen+Saduak+Floating+Market/@13.5201684,99.9586044,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2d7b8c9fd1f51:0x584ed0368907e1db"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): damnoen-saduak-maeklong</description>
+      <Point>
+        <coordinates>99.9586044,13.5201684,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="gaysorn-amarin">
+      <name>Gaysorn Amarin</name>
+      <description>&lt;b&gt;Gaysorn Amarin: выставка Louis Vuitton Visionary Journeys и Wear A Wish&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бесплатная бренд-выставка LV на 20–30 минут (зеркальный тоннель, ретро-чемоданы, подарок в конце) и Le Café Louis Vuitton; на 2 этаже Wear A Wish — керамическая бижутерия ручной работы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Gaysorn+Amarin+(Gaysorn+Village)/@13.7439979,100.5413947,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29eda9b36b1d3:0xbcc1bbe09f2e2d36"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): gaysorn-amarin</description>
+      <Point>
+        <coordinates>100.5413947,13.7439979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="lumpini-park">
+      <name>Парк Лумпини</name>
+      <description>&lt;b&gt;Парк Лумпини (вараны)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Городской парк с крупными варанами в воде.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BA+%D0%9B%D1%8E%D0%BC%D0%BF%D0%B8%D0%BD%D0%B8/@13.7314281,100.5416984,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f26ed4bb01b:0xac01b20801f96936"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): lumpini-park</description>
+      <Point>
+        <coordinates>100.5416984,13.7314281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wat-mangkon-kamalawat">
+      <name>Ват Мангкон Камалават</name>
+      <description>&lt;b&gt;Ват Мангкон Камалават (Храм Лотоса и дракона)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Действующий китайский храм в Яоварате; бесплатно.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Mangkon+Kamalawat+(Wat+Leng+Noei+Yi)/@13.7430288,100.5091598,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299224425e267:0x49ffc07b039505ce"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wat-mangkon-kamalawat</description>
+      <Point>
+        <coordinates>100.5091598,13.7430288,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jim-thompson-house">
+      <name>Дом-музей Джима Томпсона</name>
+      <description>&lt;b&gt;Дом-музей Джима Томпсона&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Дом-музей тайского шёлка: шесть тайских домов в тени.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%94%D0%B6%D0%B8%D0%BC%D0%B0+%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%B0/@13.7492491,100.5283091,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2993284fb5459:0xe984516d7ba19318"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jim-thompson-house</description>
+      <Point>
+        <coordinates>100.5281613,13.7493569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="little-zoo-capybara-cafe">
+      <name>Little Zoo Garden Capybara Cafe</name>
+      <description>&lt;b&gt;Little Zoo Garden Capybara Cafe&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Кафе с капибарами.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Little+Zoo+Garden+Capybara+Cafe+Bangkok/@13.7129925,100.6112878,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f44612565e1:0xbce6c5b840dc38b6"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): little-zoo-capybara-cafe</description>
+      <Point>
+        <coordinates>100.6112878,13.7129925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bangkok-kunsthalle">
+      <name>Bangkok Kunsthalle и Nova Contemporary</name>
+      <description>&lt;b&gt;Bangkok Kunsthalle и Nova Contemporary&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Частное арт-пространство в бывшей типографии (открыто 2024): индустриальная архитектура и выставки; Nova Contemporary — ещё одна галерея.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Bangkok+Kunsthalle/@13.7403695,100.5148599,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299183fb5ee6b:0xf0317ecca013dd7b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): bangkok-kunsthalle</description>
+      <Point>
+        <coordinates>100.5148599,13.7403695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="mbk-center">
+      <name>MBK Center</name>
+      <description>&lt;b&gt;MBK Center&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;8 этажей: электроника, сувениры (6-й этаж), одежда.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/MBK+CENTER/@13.7447542,100.529956,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f93237736ed:0x405eb31f977656de"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): mbk-center</description>
+      <Point>
+        <coordinates>100.529956,13.7447542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="siam-paragon">
+      <name>Siam Paragon</name>
+      <description>&lt;b&gt;Siam Paragon&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Крупный ТЦ с атриумом; внутри Gentle Monster (очки), бренды; рядом Siam Center и Siam Discovery. Uniqlo на 1 этаже (Google 4.5); площадка Bangkok Art Biennale 2026; Sushi Seki и SEKI Omakase.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Siam+Paragon/@13.7461302,100.5347792,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29ecde3aee521:0x9f43939a2caf2963"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): siam-paragon</description>
+      <Point>
+        <coordinates>100.5347792,13.7461302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="rabieng-ta-le-bang-pu">
+      <name>Rabieng Ta-le</name>
+      <description>&lt;b&gt;Rabieng Ta-le (Бангпу, морепродукты у моря)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Тайские морепродукты, мангры, закат.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%20Rabieng%20Ta-le%20/%20Rabiang%20Talay%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): rabieng-ta-le-bang-pu</description>
+      <Point>
+        <coordinates>100.6677502,13.5387891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="benjakitti-park">
+      <name>Парк Бенжакитти и лесной скайвок</name>
+      <description>&lt;b&gt;Парк Бенжакитти и лесной скайвок&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Городской парк с озером и выставкой старых табачных станков; новая лесная часть с приподнятой дорожкой ~1,6 км и видом на сукхумвитские небоскрёбы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Benjakitti+Park/@13.7292327,100.558726,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f1bbc1ff399:0x272f7997bda0bbf6"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): benjakitti-park</description>
+      <Point>
+        <coordinates>100.558726,13.7292327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="rajadamnern-muay-thai">
+      <name>Rajadamnern Muay Thai Stadium</name>
+      <description>&lt;b&gt;Rajadamnern Muay Thai Stadium&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Стадион тайского бокса, вечерние бои.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Rajadamnern+Muay+Thai+Stadium/@13.7609937,100.5087949,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299404fda2a13:0x332c939228713e13"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): rajadamnern-muay-thai</description>
+      <Point>
+        <coordinates>100.5087949,13.7609937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wat-saket">
+      <name>Ват Сакет</name>
+      <description>&lt;b&gt;Ват Сакет (Золотая гора)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Холм Золотой горы (344 ступени) с видом на старый город. 17–29.11.2026 у подножия — ежегодная храмовая ярмарка: игры, еда, ручное колесо обозрения, красный покров на чеди.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Saket+Ratchawora+Mahawihan/@13.7527691,100.5066745,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2995d372de33f:0x8c17a8af81664094"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wat-saket</description>
+      <Point>
+        <coordinates>100.5066745,13.7527691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="pattavikorn-market">
+      <name>Pattavikorn Market New Project</name>
+      <description>&lt;b&gt;Pattavikorn Market New Project (секонд-хенд)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Рынок комиссионной и секонд-хенд одежды.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Pattavikorn+Market+New+Project/@13.8158513,100.6528253,17z/data=!3m1!4b1!4m6!3m5!1s0x311d63c9ed574e79:0x868a43d1e9f32604"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): pattavikorn-market</description>
+      <Point>
+        <coordinates>100.6528253,13.8158513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hagow-yaowarat">
+      <name>HAGOW Yaowarat</name>
+      <description>&lt;b&gt;HAGOW Yaowarat (дим-сам)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Дим-сам, крипи-пок, жареная лапша.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%AE%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B9%8B%E0%B8%B2%20%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%8A%20HAGOW%20Yaowarat%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): hagow-yaowarat</description>
+      <Point>
+        <coordinates>100.5093962,13.7407445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sushiro-centralworld">
+      <name>Sushiro CentralWorld</name>
+      <description>&lt;b&gt;Sushiro CentralWorld (7 этаж)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Конвейерные суши (Sushiro).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SUSHIRO%20THAILAND%20centralwOrld%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): sushiro-centralworld</description>
+      <Point>
+        <coordinates>100.5399486,13.7475665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="baan-ice-iconsiam">
+      <name>Baan Ice</name>
+      <description>&lt;b&gt;Baan Ice (ICONSIAM, южная тайская кухня)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Южно-тайская кухня.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%20Baan%20Ice%20Restaurant%20%40%20ICONSIAM%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): baan-ice-iconsiam</description>
+      <Point>
+        <coordinates>100.5105643,13.7262981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hereduan-ekkamai">
+      <name>Hereduan</name>
+      <description>&lt;b&gt;Hereduan (Ekkamai, тайский стрит-фуд)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Тайский стрит-фуд, омлет с крабом, яичный рис.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%20Hereduan%20-%20%E6%AE%B5%E5%93%A5%20Thai%20Street%20food%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): hereduan-ekkamai</description>
+      <Point>
+        <coordinates>100.5886098,13.7383527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="krua-boonlert-bangpu">
+      <name>Krua Boonlert</name>
+      <description>&lt;b&gt;Krua Boonlert (Бангпу)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Центральная тайская кухня, у канала.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B9%20Krua%20Boonlert%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): krua-boonlert-bangpu</description>
+      <Point>
+        <coordinates>100.6209418,13.5416588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sushi-seki-siam-paragon">
+      <name>Sushi Seki</name>
+      <description>&lt;b&gt;Sushi Seki (Siam Paragon)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Японская кухня, омакасэ-боксы, суши/сашими.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SUSHI%20SEKI%20%28Siam%20Paragon%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): sushi-seki-siam-paragon</description>
+      <Point>
+        <coordinates>100.5347125,13.745736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="somtum-der-tha-tien">
+      <name>Somtum Der Tha Tien</name>
+      <description>&lt;b&gt;Somtum Der Tha Tien (крыша, вид на Ват Арун)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Исанская/тайская кухня, сомтам, вагю.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B8%B3%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%AD%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99%20Somtum%20Der%2C%20Tha%20Tien%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): somtum-der-tha-tien</description>
+      <Point>
+        <coordinates>100.4914244,13.7450928,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="seki-omakase-siam-paragon">
+      <name>SEKI Omakase</name>
+      <description>&lt;b&gt;SEKI Omakase (Siam Paragon)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Омакасэ, сашими, вагю.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SEKI%20OMAKASE%20%28Siam%20Paragon%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): seki-omakase-siam-paragon</description>
+      <Point>
+        <coordinates>100.5348384,13.7459022,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cave-fantasy-mbk">
+      <name>Cave Fantasy</name>
+      <description>&lt;b&gt;Cave Fantasy (иммерсивные залы, MBK)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Цифровой музей без очков: 8–9 тематических залов, проекции на стены и пол, интерактивный «Ocean Odyssey», комната, где нарисованное животное оживает&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=CAVE%20FANTASY%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): cave-fantasy-mbk</description>
+      <Point>
+        <coordinates>100.53034,13.74584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="andy-and-fine-bacc">
+      <name>Andy &amp; Fine</name>
+      <description>&lt;b&gt;Andy &amp;amp; Fine (фото-будка «аэропорт», BACC 3 этаж)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Фотостудия-декорация: «аэропортный» сет со сканером багажа и бирками, сеты «What&amp;#x27;s in my bag», «birthday cake».&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Andy%20%26%20Fine.%20Photo%20House%20%40BACC%203rd%20Floor%2C%20Room%20305%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): andy-and-fine-bacc</description>
+      <Point>
+        <coordinates>100.53022,13.74673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="keawloon">
+      <name>Keawloon</name>
+      <description>&lt;b&gt;Keawloon (Bib Gourmand 2026)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Домашняя южно-тайская/сукхотайская кухня, семейный сет.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A5%E0%B8%B9%E0%B8%99%20/%20Keawloon%20BKK%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): keawloon</description>
+      <Point>
+        <coordinates>100.5790397,13.7148398,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tang-siang-thai-records">
+      <name>Tang Siang Thai</name>
+      <description>&lt;b&gt;Tang Siang Thai (винил, старый город)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Лавка тайских и китайских пластинок 60–70-х, кассеты, CD; от 300 THB.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%20%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20/%20Tang%20Siang%20Thai%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tang-siang-thai-records</description>
+      <Point>
+        <coordinates>100.5053,13.7468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="chatuchak-market">
+      <name>Рынок Чатучак</name>
+      <description>&lt;b&gt;Рынок Чатучак&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Знаменитый выходной рынок; сувениры, магниты и многое другое напрямую у мастеров.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA+%D0%A7%D0%B0%D1%82%D1%83%D1%87%D0%B0%D0%BA/@13.799781,100.5504245,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29c14e883f8dd:0x91f191d784b87d4b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): chatuchak-market</description>
+      <Point>
+        <coordinates>100.5504245,13.799781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ayutthaya">
+      <name>Аюттхая</name>
+      <description>&lt;b&gt;Аюттхая (исторический парк, ЮНЕСКО)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Руины древней столицы Сиама XIV–XVIII вв.: Будда в корнях дерева (Ват Махатхат), кхмерские прангы Ват Чайваттханарам, слоны вокруг ступы в Ват Чанг Лом.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%90%D1%8E%D1%82%D0%B0%D0%B9%D1%8F/@14.3506286,100.557038,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2743f355197d9:0x49b9cb41b7edf179"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): ayutthaya</description>
+      <Point>
+        <coordinates>100.557038,14.3506286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jodd-fairs">
+      <name>Jodd Fairs</name>
+      <description>&lt;b&gt;Jodd Fairs (ночной рынок)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Ночной рынок на 1500+ ларьков; здесь же ларёк с магнитом «холодильник 7-Eleven» (предположительно).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Jodd+Fairs+Ratchada/@13.76792,100.5711979,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29fb274407d93:0x2aba451897c0b5f"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jodd-fairs</description>
+      <Point>
+        <coordinates>100.5711979,13.76792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jay-fai">
+      <name>Raan Jay Fai</name>
+      <description>&lt;b&gt;Raan Jay Fai&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Уличный ресторан со звездой Michelin, знаменитый крабовый омлет.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Raan+Jay+Fai/@13.7525912,100.5048189,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29916f7bc1a6b:0xd7abaa5b13a1d242"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jay-fai</description>
+      <Point>
+        <coordinates>100.5048189,13.7525912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="dd-mall-bangsue">
+      <name>DD Mall / Bangsue Junction</name>
+      <description>&lt;b&gt;DD Mall / Bangsue Junction (винтаж)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;6 этажей винтажа и антиквариата (3 одежда, 2 антиквариат, 1 еда).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/DD+Mall/data=!3m1!4b1!4m6!3m5!1s0x30e29c1443c28043:0xf2a01ffc2ca9f9ba"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): dd-mall-bangsue</description>
+      <Point>
+        <coordinates>100.5480905,13.7986229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="asiatique-skyflyers">
+      <name>Asiatique The Riverfront и SkyFlyers</name>
+      <description>&lt;b&gt;Asiatique The Riverfront и SkyFlyers&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Вечерний ночной рынок у реки с колесом обозрения (Skyflyers).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Asiatique+The+Riverfront/@13.7044191,100.5032671,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29896ef5ceab5:0xcbdfcc8a7d11f856"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): asiatique-skyflyers</description>
+      <Point>
+        <coordinates>100.5032671,13.7044191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="thailand-wonderverse-mahanakhon">
+      <name>Thailand WonderVerse</name>
+      <description>&lt;b&gt;Thailand WonderVerse (иммерсив в King Power Mahanakhon)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;9 зон: лазеры, проекции, цифровой водопад, зеркальная комната с рыбой бетта, затем зоны, реагирующие на движения&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Mahanakhon%20Thailand%20WonderVerse%20%28ex%20SkyVerse%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): thailand-wonderverse-mahanakhon</description>
+      <Point>
+        <coordinates>100.52822,13.72341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="em-district">
+      <name>Em District</name>
+      <description>&lt;b&gt;Em District (EmQuartier, Emporium)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бренды, кино, кафе.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/EmQuartier/@13.7312253,100.5694763,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f018cce6271:0x3314589d712fb05a"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): em-district</description>
+      <Point>
+        <coordinates>100.5694763,13.7312253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="terminal-21">
+      <name>Terminal 21</name>
+      <description>&lt;b&gt;Terminal 21 (Pier 21)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;ТЦ с этажами-городами; фудкорт Pier 21 — «лучшее соотношение цена/качество».&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Terminal+21+Asok/@13.7379635,100.5604058,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f1e6e996bb9:0x3383716c9b049379"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): terminal-21</description>
+      <Point>
+        <coordinates>100.5604058,13.7379635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="central-village">
+      <name>Central Village Outlet</name>
+      <description>&lt;b&gt;Central Village Outlet&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Аутлет 170–200+ брендов (Coach, Michael Kors, Polo, Nike), 10 минут от аэропорта.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Central+Village+Outlet/data=!4m7!3m6!1s0x311d5dbe39b5530d:0xc1a53d43f4ee157b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): central-village</description>
+      <Point>
+        <coordinates>100.7431735,13.6387561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="lebua-sky-bar">
+      <name>Sky Bar</name>
+      <description>&lt;b&gt;Sky Bar (Lebua State Tower)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Знаменитый бар на крыше State Tower.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Sky+Bar/@13.7214231,100.5168806,17z/data=!3m1!4b1!4m6!3m5!1s0x30e298c56c673055:0x591df0b04b429ecd"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): lebua-sky-bar</description>
+      <Point>
+        <coordinates>100.5168806,13.7214231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="moca-bangkok">
+      <name>MOCA Bangkok</name>
+      <description>&lt;b&gt;MOCA Bangkok&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Музей тайского современного искусства.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0/@13.8523198,100.5630092,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29cc338739347:0xce87f7228d1737fb"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): moca-bangkok</description>
+      <Point>
+        <coordinates>100.5630092,13.8523198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="octave-rooftop">
+      <name>Octave Rooftop</name>
+      <description>&lt;b&gt;Octave Rooftop (Bangkok Marriott Sukhumvit)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Три уровня, DJ, вид на город.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Octave+Rooftop+Lounge+%26+Bar/@13.7235023,100.5805426,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29fa536211b87:0xc11941c85b448c81"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): octave-rooftop</description>
+      <Point>
+        <coordinates>100.5805426,13.7235023,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="yunomori-onsen">
+      <name>Yunomori Onsen &amp; Spa и RYUU Onsen</name>
+      <description>&lt;b&gt;Yunomori Onsen &amp;amp; Spa и RYUU Onsen (японские онсэны)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Японские онсэны в Бангкоке.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Yunomori+Onsen+%26+Spa+Sukhumvit+Soi+26/@13.7196417,100.5667472,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f0f4f6052cb:0xb1fe14dd6499bbff"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): yunomori-onsen</description>
+      <Point>
+        <coordinates>100.5667472,13.7196417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bang-krachao">
+      <name>Банг Крачао</name>
+      <description>&lt;b&gt;Банг Крачао («зелёное лёгкое»)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Полуостров-джунгли в городе: приподнятые дорожки, птицы, велосипеды; паром от пирса Bang Na / Khlong Toei.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Sri+Nakhon+Khuean+Khan+Park+and+Botanical+Garden/@13.6968366,100.5649237,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f7ae9205cff:0x656e8af904edefc2"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): bang-krachao</description>
+      <Point>
+        <coordinates>100.5649237,13.6968366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="vertigo-moon-bar">
+      <name>Vertigo &amp; Moon Bar</name>
+      <description>&lt;b&gt;Vertigo &amp;amp; Moon Bar (Banyan Tree)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Открытая палуба на 61 этаже: Moon Bar с 17:00, Vertigo с 18:00.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Vertigo+%26+Moon+Bar+Rooftop/@13.7235647,100.5396054,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29fd4a14a3a7d:0x280a5e749aa84daa"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): vertigo-moon-bar</description>
+      <Point>
+        <coordinates>100.5396054,13.7235647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="loha-prasat-ratanakosin">
+      <name>Лоха Прасат и тихие храмы Ратанакосина</name>
+      <description>&lt;b&gt;Лоха Прасат и тихие храмы Ратанакосина&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Железный храм с металлическими шпилями (панорама с верхнего этажа), Ват Ратчабопхит (готика, бенчаронг) и Ват Ратчапрадит (фрески с затмением).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Ratchanatdaram+Worawihan/@13.7548169,100.5041554,17z/data=!3m1!4b1!4m6!3m5!1s0x30e299144cc13661:0xc20761147d163561"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): loha-prasat-ratanakosin</description>
+      <Point>
+        <coordinates>100.5041554,13.7548169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="after-the-rain-coffee">
+      <name>After the Rain Coffee &amp; Gallery</name>
+      <description>&lt;b&gt;After the Rain Coffee &amp;amp; Gallery&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Кофейня-галерея из списка блогера.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/After+the+Rain+Coffee+%26+Gallery/@13.7831058,100.2691837,17z/data=!3m1!4b1!4m6!3m5!1s0x30e294af09282409:0xf506495f7a028621"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): after-the-rain-coffee</description>
+      <Point>
+        <coordinates>100.2691837,13.7831058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="supanniga-eating-room-tha-tien">
+      <name>Supanniga Eating Room</name>
+      <description>&lt;b&gt;Supanniga Eating Room (Тха Тиен)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Центрально-/северо-восточная тайская кухня, вид на Ват Арун.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99%20Supanniga%20Eating%20Room%20Tha%20Tien%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): supanniga-eating-room-tha-tien</description>
+      <Point>
+        <coordinates>100.4917348,13.7441351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="phra-sumen-fort">
+      <name>Форт Пхра Сумен и парк Сантичайпракан</name>
+      <description>&lt;b&gt;Форт Пхра Сумен и парк Сантичайпракан&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Бесплатный парк на Чао Прае у восьмиугольного форта; закат с видом на реку и мост.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Phra+Sumen+Fort/@13.7639776,100.4956975,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2997209b2f36f:0xc2c7e7e4530c7437"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): phra-sumen-fort</description>
+      <Point>
+        <coordinates>100.4956975,13.7639776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hitori-shabu">
+      <name>Hitori Shabu</name>
+      <description>&lt;b&gt;Hitori Shabu (индивидуальное шабу-шабу)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Шабу-шабу у индивидуального котелка: тонкие ломтики премиальной говядины и бульон на выбор.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=HITORI%20SHABU%20%28Siam%20Paragon%20/%20CentralWorld%20/%20One%20Bangkok%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): hitori-shabu</description>
+      <Point>
+        <coordinates>100.5347102,13.7461299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wat-pariwat-beckham">
+      <name>Ват Париват</name>
+      <description>&lt;b&gt;Ват Париват («храм Бекхэма»)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Храм с курьёзной статуей Бекхэма.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Pariwat+Ratchasongkram/@13.6739199,100.533314,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2a1f6e011f8cd:0xcdafea70d8d4fc31"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wat-pariwat-beckham</description>
+      <Point>
+        <coordinates>100.533314,13.6739199,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="rattanakosin-exhibition-hall">
+      <name>Выставочный зал Раттанакосин</name>
+      <description>&lt;b&gt;Выставочный зал Раттанакосин (2 многослойных штампа)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Выставочный зал истории Раттанакосина у Демократического монумента.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20/%20Rattanakosin%20Exhibition%20Hall%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): rattanakosin-exhibition-hall</description>
+      <Point>
+        <coordinates>100.5038224,13.7558541,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wat-weluwanaram">
+      <name>Wat Weluwanaram</name>
+      <description>&lt;b&gt;Wat Weluwanaram&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Буддийский храм из списка блогера.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Wat+Weluwanaram/@13.9140754,100.5675294,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2830719a0950d:0xdb6b3990c7ef8dd9"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): wat-weluwanaram</description>
+      <Point>
+        <coordinates>100.5675294,13.9140754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="somtum-khun-kan">
+      <name>Som Tum Khun Kan</name>
+      <description>&lt;b&gt;Som Tum Khun Kan (Bib Gourmand)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Сомтам, жареная свиная шея, исанская кухня.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B8%B3%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%93%E0%B9%8C%20Som%20Tum%20Khun%20Kan%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): somtum-khun-kan</description>
+      <Point>
+        <coordinates>100.6211196,13.68531,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tonkotsu-kazan-ramen">
+      <name>Tonkotsu Kazan Ramen</name>
+      <description>&lt;b&gt;Tonkotsu Kazan Ramen (рамен в каменной чаше)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Японская сеть: рамен «вулкан» — бульон льют в раскалённую каменную чашу с морепродуктами; также есть набор «Hamburg curry rice».&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Tonkotsu%20Kazan%20Ramen%20%28Siam%20Center%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tonkotsu-kazan-ramen</description>
+      <Point>
+        <coordinates>100.5326779,13.7462793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cataleya-estate">
+      <name>Cataleya Estate</name>
+      <description>&lt;b&gt;Cataleya Estate&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Ресторан из списка блогера.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Cataleya+Estate/data=!4m10!3m9!1s0x311d61277bbf1d5f:0x42cdbfc904c0b643"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): cataleya-estate</description>
+      <Point>
+        <coordinates>100.6196384,13.6972962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="science-museum-planetarium">
+      <name>Научный музей и планетарий</name>
+      <description>&lt;b&gt;Научный музей и планетарий (Эккамай)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Старейший планетарий Таиланда (1964, обновлён 2016) и интерактивный музей.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80/@13.7195424,100.5827807,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29fa577be469d:0x2c28a9d22c3e53a7"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): science-museum-planetarium</description>
+      <Point>
+        <coordinates>100.5827807,13.7195424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="white-flower-factory-siam-square-one">
+      <name>White Flower Factory</name>
+      <description>&lt;b&gt;White Flower Factory (Siam Square One)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Современная тайская кухня.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=White%20Flower%20Factory%20-%20%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%82%E0%B8%B2%E0%B8%A7%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): white-flower-factory-siam-square-one</description>
+      <Point>
+        <coordinates>100.5337883,13.7453304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jasmine-siam-kitchen">
+      <name>Jasmine Siam Kitchen</name>
+      <description>&lt;b&gt;Jasmine Siam Kitchen&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Тайская кухня для туристов, манго с липким рисом.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Jasmine%20Siam%20Kitchen%20%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B4%E0%B8%99%20%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%20%E0%B8%84%E0%B8%B4%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%99%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jasmine-siam-kitchen</description>
+      <Point>
+        <coordinates>100.5306057,13.7538362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="masa-otaru-masazushi-iconsiam">
+      <name>MASA Otaru Masazushi</name>
+      <description>&lt;b&gt;MASA Otaru Masazushi (ICONSIAM)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Омакасэ, хоккайдо-суши.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=MASA%20-%20Otaru%20Masazushi%20%28ICONSIAM%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): masa-otaru-masazushi-iconsiam</description>
+      <Point>
+        <coordinates>100.5101514,13.7266325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="peppery-thai-bistro-iconsiam">
+      <name>Peppery Thai Bistro</name>
+      <description>&lt;b&gt;Peppery Thai Bistro (ICONSIAM)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Тайская кухня, краб в карри.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Peppery%20Thai%20Bistro%20%28Icon%20Siam%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): peppery-thai-bistro-iconsiam</description>
+      <Point>
+        <coordinates>100.5107487,13.7264538,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="chao-phraya-sky-park">
+      <name>Chao Phraya Sky Park</name>
+      <description>&lt;b&gt;Chao Phraya Sky Park&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Около 280 м пешеходного парка над рекой на недостроенной эстакаде, лифты, смотровые площадки (открыт сентябрь 2024).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Chao+Phraya+Sky+Park/@13.7390161,100.4984869,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29907982e93f5:0xd7588f1bc92e13e0"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): chao-phraya-sky-park</description>
+      <Point>
+        <coordinates>100.4984869,13.7390161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="siriraj-museums">
+      <name>Музеи Сирирай</name>
+      <description>&lt;b&gt;Музеи Сирирай («музей смерти») и Human Body Museum&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Комплекс из 7 музеев (судебная медицина Songkran Niyomsan, Ellis, Congdon); Human Body Museum при Chula (~2000 препаратов).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%A1%D0%B8%D1%80%D0%B8%D1%80%D0%B0%D0%B9/@13.7587943,100.4851128,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29986aaaaaaab:0xe92846ccd993746a"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): siriraj-museums</description>
+      <Point>
+        <coordinates>100.4851128,13.7587943,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="sushiro-iconsiam">
+      <name>Sushiro ICONSIAM</name>
+      <description>&lt;b&gt;Sushiro ICONSIAM (UG)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Конвейерные суши (Sushiro).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=SUSHIRO%20ICONSIAM%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): sushiro-iconsiam</description>
+      <Point>
+        <coordinates>100.5109226,13.7263168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="baiyoke-sky">
+      <name>Baiyoke Sky</name>
+      <description>&lt;b&gt;Baiyoke Sky (вращающаяся площадка на 84 этаже)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Открытая вращающаяся площадка на 84 этаже, рядом с Пратунамом.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Baiyoke+Observation+Deck/@13.7542947,100.5403828,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f317c06bf7d:0x11d2b05c89adfe0c"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): baiyoke-sky</description>
+      <Point>
+        <coordinates>100.5403828,13.7542947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="bento-sushi-bkk-f4">
+      <name>Bento Sushi</name>
+      <description>&lt;b&gt;Bento Sushi (аэропорт BKK, 4 этаж)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Суши, рамен.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Bento%20Sushi%20Floor%204%20%40%20Suvarnabhumi%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: bento-sushi-bkk-f4; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/Bento+Sushi+Floor+4/@13.6926186,100.7462114,17z/data=!3m1!4b1!4m6!3m5!1s0x311d678f2316a835:0x39fb3b013550aea!8m2!3d13.6926186!4d100.7462114!16s%2Fg%2F11wxfh88fq?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>100.74621139999999,13.6926186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="train-night-market-ratchada">
+      <name>Train Night Market Ratchada</name>
+      <description>&lt;b&gt;Train Night Market Ratchada (новый)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Новый ночной рынок (открыт 27.03.2026): винтаж с одной стороны, еда с другой, бары-контейнеры.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Train+Night+Market+Ratchada/@13.7668766,100.5686649,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29faff350c2ff:0x501a040c5d40615d"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): train-night-market-ratchada</description>
+      <Point>
+        <coordinates>100.5686649,13.7668766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="charm-noodles-bkk">
+      <name>Charm Noodles</name>
+      <description>&lt;b&gt;Charm Noodles (аэропорт BKK, 4 этаж)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Тайская лапша.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=Charm%20Noodles%20FL.4%20%40%20Suvarnabhumi%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: charm-noodles-bkk; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/Charm%20Noodles%20FL.4%20Suvarnabhumi%20Airport%20Thailand</description>
+      <Point>
+        <coordinates>100.7514796,13.6925843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="thainosaur-lotus-museums">
+      <name>Thainosaur Museum и Lotus Museum</name>
+      <description>&lt;b&gt;Thainosaur Museum и Lotus Museum&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Необычные музеи из списка блогера.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Thainosaur+Museum/@13.7038635,100.5015483,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29952a4c86e4b:0x3bf32149a0f2b4ee"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): thainosaur-lotus-museums</description>
+      <Point>
+        <coordinates>100.5015483,13.7038635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="more-rice-records">
+      <name>More Rice Records</name>
+      <description>&lt;b&gt;More Rice Records&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;House/techno и азиатские артисты, диджейское оборудование&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=More%20Rice%20Record%20Store%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: more-rice-records; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/More+Rice+Record+Store/@13.7419632,100.5675369,17z/data=!3m1!4b1!4m6!3m5!1s0x30e29f6c3c0aa4cd:0xc8f5c85b7dc73611!8m2!3d13.7419632!4d100.5675369!16s%2Fg%2F11r4bm4lf2?entry=ttu&amp;amp;g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D</description>
+      <Point>
+        <coordinates>100.5675369,13.741963199999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="robot-building">
+      <name>Robot Building и Chang Tower</name>
+      <description>&lt;b&gt;Robot Building и Chang Tower&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Robot Building (1986, Sumet Jumsai, UOB) и Chang Tower («Слон», Чатучак) — архитектура-курьёзы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Robot+Building,+Khwaeng+Yan+Nawa,+Khet+Sathon,+Krung+Thep+Maha+Nakhon+10120,+%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4/@13.720448,100.527311,17z"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): robot-building</description>
+      <Point>
+        <coordinates>100.527311,13.720448,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="around-town-postcard-machine">
+      <name>Автомат открыток Around Town у Jeen Coffee Bar</name>
+      <description>&lt;b&gt;Автомат открыток Around Town у Jeen Coffee Bar&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Красный автомат «мини-открыток-сюрпризов» с видами Бангкока (Чайнатаун, Яоварат, лодка на Чао Прае).&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=AROUNDTOWN%20mini%20mystery%20postcard%20%28Jeen%20Coffee%20Bar%2C%20149%20Song%20Sawat%20Rd%29%2C%20%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): around-town-postcard-machine</description>
+      <Point>
+        <coordinates>100.5128,13.733,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

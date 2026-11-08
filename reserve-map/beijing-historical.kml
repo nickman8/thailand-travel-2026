@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Пекин — историческое</name>
+    <Placemark id="lama-temple-yonghegong">
+      <name>Храм Лам Юнхэгун</name>
+      <description>&lt;b&gt;Храм Лам Юнхэгун&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Действующий тибето-буддийский монастырь: жёлтая черепица на красных стенах, курильницы с дымом благовоний, 18-метровый Майтрейя в павильоне Ваньфу.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f05334fde04cc5:0x5e6cb3b26525cbd0"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): lama-temple-yonghegong</description>
+      <Point>
+        <coordinates>116.4172902,39.9476712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="galaxy-soho">
+      <name>Galaxy SOHO</name>
+      <description>&lt;b&gt;Galaxy SOHO (Заха Хадид)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Комплекс Захи Хадид: четыре слитых купола без прямых углов; 2 остановки от Dongzhimen.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f1acd869a17e8b:0x6d0c1a298ad85f29"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): galaxy-soho</description>
+      <Point>
+        <coordinates>116.4332164,39.9214364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jin-ding-xuan-ditan">
+      <name>Jin Ding Xuan 金鼎轩</name>
+      <description>&lt;b&gt;Jin Ding Xuan 金鼎轩 (Дитань, 24 часа)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Кантонский дим-сам, цзяоцзы, баоцзы.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E9%87%91%E9%BC%8E%E8%BD%A9%E5%9C%B0%E5%9D%9B%E5%BA%97%20/%20Jindingxuan%20Ditan%20Branch%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jin-ding-xuan-ditan</description>
+      <Point>
+        <coordinates>116.41592,39.95097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="forbidden-city">
+      <name>Запретный город</name>
+      <description>&lt;b&gt;Запретный город (Palace Museum)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Императорский дворцовый комплекс — главная классика Пекина.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f052dd9bcd81ab:0xde43eaed9b106064"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): forbidden-city</description>
+      <Point>
+        <coordinates>116.3971546,39.9163447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="temple-of-heaven">
+      <name>Храм Неба</name>
+      <description>&lt;b&gt;Храм Неба&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Классика Пекина.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f04d6019ff91eb:0x372c15453b110e6a"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): temple-of-heaven</description>
+      <Point>
+        <coordinates>116.4066056,39.8821803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tiananmen-square">
+      <name>Площадь Тяньаньмэнь</name>
+      <description>&lt;b&gt;Площадь Тяньаньмэнь&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Главная площадь страны; Ворота Небесного Спокойствия у входа в Запретный город.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x36637698dc4374d9:0x2aea2ec9ad545913"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): tiananmen-square</description>
+      <Point>
+        <coordinates>116.3976317,39.9054895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="jingshan-park">
+      <name>Парк Цзиншань</name>
+      <description>&lt;b&gt;Парк Цзиншань&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Холм с павильоном Ваньчунь, откуда видна вся крыша Запретного города.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f052e0cf4da489:0x95549f0b9c7f635b"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): jingshan-park</description>
+      <Point>
+        <coordinates>116.3968433,39.9250988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="cctv-headquarters">
+      <name>Здание CCTV</name>
+      <description>&lt;b&gt;Здание CCTV (Рем Колхас)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Петлеобразный небоскрёб Рема Колхаса в деловом районе Guomao.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f1acff0e1f1f73:0xff708f9e2c7b7b23"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): cctv-headquarters</description>
+      <Point>
+        <coordinates>116.4642312,39.9152751,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="mr-shis-dumplings">
+      <name>Mr. Shi's Dumplings 老石饺子馆</name>
+      <description>&lt;b&gt;Mr. Shi&amp;#x27;s Dumplings 老石饺子馆&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Цзяоцзы (дамплинги), хутун.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E8%80%81%E7%9F%B3%E9%A5%BA%E5%AD%90%E9%A6%86%20Mr.%20Shi%27s%20Dumplings%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): mr-shis-dumplings</description>
+      <Point>
+        <coordinates>116.399777,39.943395,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="baoyuan-jiaozi">
+      <name>Baoyuan Dumplings 宝源饺子屋</name>
+      <description>&lt;b&gt;Baoyuan Dumplings 宝源饺子屋&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Цзяоцзы, северокитайская кухня.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E5%AE%9D%E6%BA%90%E9%A5%BA%E5%AD%90%E5%B1%8B%20Baoyuan%20Dumplings%20Restaurant%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): baoyuan-jiaozi</description>
+      <Point>
+        <coordinates>116.46872,39.945444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="798-art-district">
+      <name>Район 798</name>
+      <description>&lt;b&gt;Район 798 (UCCA)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Бывшие заводы под галереи; UCCA.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/place/data=!4m2!3m1!1s0x35f1abbf50ac7397:0x314d3f74bddd188d"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): 798-art-district</description>
+      <Point>
+        <coordinates>116.494837,39.983984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="qingfeng-baozi-dongzhimen">
+      <name>Qing-Feng Baozi 庆丰包子铺</name>
+      <description>&lt;b&gt;Qing-Feng Baozi 庆丰包子铺 (Дунчжимэнь)&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Баоцзы (фастфуд-сеть), недорого.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E5%BA%86%E4%B8%B0%E5%8C%85%E5%AD%90%E9%93%BA%20Qing-Feng%20Steamed%20Dumpling%20Shop%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: build.load_places(): qingfeng-baozi-dongzhimen</description>
+      <Point>
+        <coordinates>116.4256758,39.9355363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="confucius-temple-beijing">
+      <name>Храм Конфуция и Гоцзыцзянь</name>
+      <description>&lt;b&gt;Храм Конфуция и Гоцзыцзянь&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Храм Конфуция и императорская академия: старые кипарисы, стелы с именами выпускников, павильон Бииун.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E5%AD%94%E5%BA%99%E5%92%8C%E5%9B%BD%E5%AD%90%E7%9B%91%E5%8D%9A%E7%89%A9%E9%A6%86%20%28Confucius%20Temple%20%26%20Imperial%20College%29%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: confucius-temple-beijing; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/search/%E5%AD%94%E5%BA%99%E5%92%8C%E5%9B%BD%E5%AD%90%E7%9B%91%E5%8D%9A%E7%89%A9%E9%A6%86%20Confucius%20Temple%20Imperial%20College%2C%20Beijing%2C%20China</description>
+      <Point>
+        <coordinates>116.413279,39.946908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="wudaoying-hutong">
+      <name>Хутун Удаоин</name>
+      <description>&lt;b&gt;Хутун Удаоин&lt;/b&gt;&lt;br&gt;Не вошло в основной маршрут&lt;br&gt;Историческая подборка Пекина; не часть нынешней поездки.&lt;br&gt;Тихий переулок с кафе (Phoenix с террасой) и дизайнерскими лавками; от восточного входа видны стены Юнхэгуна.&lt;br&gt;Рейтинг: нет данных; дата оценки неизвестна.&lt;br&gt;&lt;a href="https://www.google.com/maps/search/?api=1&amp;amp;query=%E4%BA%94%E9%81%93%E8%90%A5%E8%83%A1%E5%90%8C%20%28Wudaoying%20Hutong%29%2C%20%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD"&gt;Карточка на карте&lt;/a&gt;; дата: не указана&lt;br&gt;Координаты: reserve-map/geocoded.json: wudaoying-hutong; Google MyMaps CSV geocoding + Google Maps name/address audit 2026-11-08; https://www.google.com/maps/place/%E4%BA%94%E9%81%93%E8%90%A5%E8%83%A1%E5%90%8C/data=!4m7!3m6!1s0x35f0534895e216c7:0xae61641e6036fdbe!8m2!3d39.9489404!4d116.4086966!16s%2Fg%2F113hy1lzq!19sChIJxxbilUhT8DURvv02YB5kYa4 ; Уточнено по точной карточке Google Maps: 五道营胡同</description>
+      <Point>
+        <coordinates>116.4086966,39.9489404,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
